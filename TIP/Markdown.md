@@ -70,3 +70,4 @@
 
 ## 유용한 마크다운관련 사이트
 - [표 만들기](http://www.tablesgenerator.com/)
+- [이모지](https://www.webfx.com/tools/emoji-cheat-sheet/)
