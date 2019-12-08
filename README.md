@@ -9,7 +9,8 @@
 - 새로운 기술을 공부하는 것에 두려움을 갖지 말자.
 - 나만의 공부 및 기록 습관을 만들자.
 - 꾸준히 하자.
-- 기록한 것을 이 레포지토리 하나에 잘 정리하여 보관하자.
+- 살아있는 문서를 만들자.
+  - 기존의 내용은 언제든지 바뀔 수 있다.
 
 
 ## 제약사항
@@ -22,7 +23,8 @@
 
 
 ## 분류
-- [개발 팁](#개발-팁(TIP))
+- [개발 팁](#개발-팁(tip))
+- [WEB](#web)
 - [우아한테크코스](#우아한테크코스)
 - [도서 정리](#도서-정리)
 
@@ -30,6 +32,8 @@
 - [단축키 모음](https://github.com/CODEMCD/TIL/blob/master/TIP/%EB%8B%A8%EC%B6%95%ED%82%A4%20%EB%AA%A8%EC%9D%8C.md)
 - [Markdown](https://github.com/CODEMCD/TIL/blob/master/TIP/Markdown.md)
 
+### WEB
+- []()
 
 ### 우아한테크코스
 - [Level 1 피드백 모음](https://github.com/CODEMCD/TIL/blob/master/%EC%9A%B0%EC%95%84%ED%95%9C%ED%85%8C%ED%81%AC%EC%BD%94%EC%8A%A4/Level1%20%ED%94%BC%EB%93%9C%EB%B0%B1%20%EB%AA%A8%EC%9D%8C.md)
