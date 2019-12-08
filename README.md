@@ -32,6 +32,8 @@
 
 
 ### 우아한테크코스
+- [Level 1 피드백 모음](https://github.com/CODEMCD/TIL/blob/master/%EC%9A%B0%EC%95%84%ED%95%9C%ED%85%8C%ED%81%AC%EC%BD%94%EC%8A%A4/Level1%20%ED%94%BC%EB%93%9C%EB%B0%B1%20%EB%AA%A8%EC%9D%8C.md)
+- [Sync VS Async, Blocking Vs Non Blocking](https://github.com/CODEMCD/TIL/blob/master/%EC%9A%B0%EC%95%84%ED%95%9C%ED%85%8C%ED%81%AC%EC%BD%94%EC%8A%A4/Sync%20VS%20Async%2CBlocking%20VS%20Non%20Blocking.md)
 
 ### 도서 정리
 #### [SQL 첫걸음](http://www.kyobobook.co.kr/product/detailViewKor.laf?ejkGb=KOR&mallGb=KOR&barcode=9788968482311&orderClick=LAG&Kc=)
