@@ -75,8 +75,25 @@
 
 ### 운영체제(OS)
 - [운영체제 KOCW 양희재 교수님 강의](http://www.kocw.net/home/search/kemView.do?kemId=978503)
-  - []
-
+  - [1장 운영체제 서론](https://github.com/CODEMCD/TIL/blob/master/OS/1%EC%9E%A5-%EC%9A%B4%EC%98%81%EC%B2%B4%EC%A0%9C%20%EC%84%9C%EB%A1%A0.md)
+  - [2장 운영체제 역사]()https://github.com/CODEMCD/TIL/blob/master/OS/2%EC%9E%A5-%EC%9A%B4%EC%98%81%EC%B2%B4%EC%A0%9C%20%EC%97%AD%EC%82%AC.md
+  - [3장 이중모드와 보호](https://github.com/CODEMCD/TIL/blob/master/OS/3%EC%9E%A5-%EC%9D%B4%EC%A4%91%EB%AA%A8%EB%93%9C%EC%99%80%20%EB%B3%B4%ED%98%B8.md)
+  - [4장 운영체제 서비스](https://github.com/CODEMCD/TIL/blob/master/OS/4%EC%9E%A5-%EC%9A%B4%EC%98%81%EC%B2%B4%EC%A0%9C%20%EC%84%9C%EB%B9%84%EC%8A%A4.md)
+  - [5장 프로세스 관리](https://github.com/CODEMCD/TIL/blob/master/OS/5%EC%9E%A5-%ED%94%84%EB%A1%9C%EC%84%B8%EC%8A%A4%EA%B4%80%EB%A6%AC.md)
+  - [6장 CPU 스케줄링](https://github.com/CODEMCD/TIL/blob/master/OS/6%EC%9E%A5-CPU%EC%8A%A4%EC%BC%80%EC%A4%84%EB%A7%81.md)
+  - [7장 쓰레드](https://github.com/CODEMCD/TIL/blob/master/OS/7%EC%9E%A5-%EC%93%B0%EB%A0%88%EB%93%9C.md)
+  - [8장 프로세스 동기화 1](https://github.com/CODEMCD/TIL/blob/master/OS/8%EC%9E%A5-%ED%94%84%EB%A1%9C%EC%84%B8%EC%8A%A4%20%EB%8F%99%EA%B8%B0%ED%99%94-1.md)
+  - [9장 프로세스 동기화 2](https://github.com/CODEMCD/TIL/blob/master/OS/9%EC%9E%A5-%ED%94%84%EB%A1%9C%EC%84%B8%EC%8A%A4%20%EB%8F%99%EA%B8%B0%ED%99%94-2.md)
+  - [10장 프로세스 동기화 3](https://github.com/CODEMCD/TIL/blob/master/OS/10%EC%9E%A5-%ED%94%84%EB%A1%9C%EC%84%B8%EC%8A%A4%20%EB%8F%99%EA%B8%B0%ED%99%94-3.md)
+  - [11장 모니터](https://github.com/CODEMCD/TIL/blob/master/OS/11%EC%9E%A5-%EB%AA%A8%EB%8B%88%ED%84%B0.md)
+  - [12장 주기억장치 관리](https://github.com/CODEMCD/TIL/blob/master/OS/12%EC%9E%A5-%EC%A3%BC%EA%B8%B0%EC%96%B5%EC%9E%A5%EC%B9%98%20%EA%B4%80%EB%A6%AC.md)
+  - [13장 페이징](https://github.com/CODEMCD/TIL/blob/master/OS/13%EC%9E%A5-%ED%8E%98%EC%9D%B4%EC%A7%95.md)
+  - [14장 세그먼테이션](https://github.com/CODEMCD/TIL/blob/master/OS/14%EC%9E%A5-%EC%84%B8%EA%B7%B8%EB%A8%BC%ED%85%8C%EC%9D%B4%EC%85%98.md)
+  - [15장 가상메모리](https://github.com/CODEMCD/TIL/blob/master/OS/15%EC%9E%A5-%EA%B0%80%EC%83%81%EB%A9%94%EB%AA%A8%EB%A6%AC.md)
+  - [16장 페이지 교체 알고리즘](https://github.com/CODEMCD/TIL/blob/master/OS/16%EC%9E%A5-%ED%8E%98%EC%9D%B4%EC%A7%80%20%EA%B5%90%EC%B2%B4%20%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98.md)
+  - [17장 프레임 할당](https://github.com/CODEMCD/TIL/blob/master/OS/17%EC%9E%A5-%ED%94%84%EB%A0%88%EC%9E%84%20%ED%95%A0%EB%8B%B9.md)
+  - [18장 파일 할당](https://github.com/CODEMCD/TIL/blob/master/OS/18%EC%9E%A5-%ED%8C%8C%EC%9D%BC%20%ED%95%A0%EB%8B%B9.md)
+  - [19장 디스크 스케줄 알고리즘](https://github.com/CODEMCD/TIL/blob/master/OS/19%EC%9E%A5-%EB%94%94%EC%8A%A4%ED%81%AC%20%EC%8A%A4%EC%BC%80%EC%A4%84%20%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98.md)
 
 
 ### 네트워크
