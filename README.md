@@ -76,7 +76,7 @@
 ### 운영체제(OS)
 - [운영체제 KOCW 양희재 교수님 강의](http://www.kocw.net/home/search/kemView.do?kemId=978503)
   - [1장 운영체제 서론](https://github.com/CODEMCD/TIL/blob/master/OS/1%EC%9E%A5-%EC%9A%B4%EC%98%81%EC%B2%B4%EC%A0%9C%20%EC%84%9C%EB%A1%A0.md)
-  - [2장 운영체제 역사]()https://github.com/CODEMCD/TIL/blob/master/OS/2%EC%9E%A5-%EC%9A%B4%EC%98%81%EC%B2%B4%EC%A0%9C%20%EC%97%AD%EC%82%AC.md
+  - [2장 운영체제 역사](https://github.com/CODEMCD/TIL/blob/master/OS/2%EC%9E%A5-%EC%9A%B4%EC%98%81%EC%B2%B4%EC%A0%9C%20%EC%97%AD%EC%82%AC.md)
   - [3장 이중모드와 보호](https://github.com/CODEMCD/TIL/blob/master/OS/3%EC%9E%A5-%EC%9D%B4%EC%A4%91%EB%AA%A8%EB%93%9C%EC%99%80%20%EB%B3%B4%ED%98%B8.md)
   - [4장 운영체제 서비스](https://github.com/CODEMCD/TIL/blob/master/OS/4%EC%9E%A5-%EC%9A%B4%EC%98%81%EC%B2%B4%EC%A0%9C%20%EC%84%9C%EB%B9%84%EC%8A%A4.md)
   - [5장 프로세스 관리](https://github.com/CODEMCD/TIL/blob/master/OS/5%EC%9E%A5-%ED%94%84%EB%A1%9C%EC%84%B8%EC%8A%A4%EA%B4%80%EB%A6%AC.md)
@@ -96,7 +96,7 @@
   - [19장 디스크 스케줄 알고리즘](https://github.com/CODEMCD/TIL/blob/master/OS/19%EC%9E%A5-%EB%94%94%EC%8A%A4%ED%81%AC%20%EC%8A%A4%EC%BC%80%EC%A4%84%20%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98.md)
 
 
-### 네트워크
+### 네트워크
 
 
 ### 데이터베이스
