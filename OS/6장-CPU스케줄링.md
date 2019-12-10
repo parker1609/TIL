@@ -184,3 +184,8 @@ Multilevel Feedback Queue도 Multilevel Queue와 같이 여러 개의 큐를 사
 만약 우선순위순으로 큐를 사용하는 상황에서 우선순위가 낮은 아래의 큐에 있는 프로세스에서 starvation 상태가 발생하면 이를 우선순위가 높은 위의 큐로 옮길 수도 있다.
 
 대부분의 상용 운영체제는 여러 개의 큐를 사용하고 각 큐마다 다른 스케줄링 방식을 사용한다. 프로세스의 성격에 맞는 스케줄링 방식을 사용하여 최대한 효율을 높일 수 있는 방법을 선택한다.
+
+
+## 참고 자료
+- [운영체제 KOCW 양희재 교수님 강의](http://www.kocw.net/home/search/kemView.do?kemId=978503)
+- [Operation System Concepts 9th](http://www.kyobobook.co.kr/product/detailViewEng.laf?ejkGb=ENG&mallGb=ENG&barcode=9781118093757&orderClick=LAG&Kc=)

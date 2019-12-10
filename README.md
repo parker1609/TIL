@@ -74,6 +74,9 @@
 
 
 ### 운영체제(OS)
+- [운영체제 KOCW 양희재 교수님 강의](http://www.kocw.net/home/search/kemView.do?kemId=978503)
+  - []
+
 
 
 ### 네트워크
