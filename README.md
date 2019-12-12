@@ -35,7 +35,7 @@
 - [단축키 모음](https://github.com/CODEMCD/TIL/blob/master/TIP/%EB%8B%A8%EC%B6%95%ED%82%A4%20%EB%AA%A8%EC%9D%8C.md)
 - [Markdown](https://github.com/CODEMCD/TIL/blob/master/TIP/Markdown.md)
 - [IntelliJ](https://github.com/CODEMCD/TIL/blob/master/TIP/IntelliJ.md)
-
+- [MAC](https://github.com/CODEMCD/TIL/blob/master/TIP/Mac.md)
 
 ### WEB
 - [JSON](https://github.com/CODEMCD/TIL/blob/master/WEB/JSON.md)
