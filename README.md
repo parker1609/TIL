@@ -32,6 +32,7 @@
 ---
 
 ### 개발 팁(TIP)
+- [읽을거리](https://github.com/CODEMCD/TIL/blob/master/TIP/%EC%9D%BD%EC%9D%84%EA%B1%B0%EB%A6%AC.md)
 - [단축키 모음](https://github.com/CODEMCD/TIL/blob/master/TIP/%EB%8B%A8%EC%B6%95%ED%82%A4%20%EB%AA%A8%EC%9D%8C.md)
 - [Markdown](https://github.com/CODEMCD/TIL/blob/master/TIP/Markdown.md)
 - [IntelliJ](https://github.com/CODEMCD/TIL/blob/master/TIP/IntelliJ.md)
