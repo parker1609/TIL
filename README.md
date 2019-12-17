@@ -33,12 +33,13 @@
 
 ### 개발 팁(TIP)
 - [읽을거리](https://github.com/CODEMCD/TIL/blob/master/TIP/%EC%9D%BD%EC%9D%84%EA%B1%B0%EB%A6%AC.md)
-- [단축키 모음](https://github.com/CODEMCD/TIL/blob/master/TIP/%EB%8B%A8%EC%B6%95%ED%82%A4%20%EB%AA%A8%EC%9D%8C.md)
+- [단축키 모음(MAC, Atom, IntelliJ, Chrome, Tmux)](https://github.com/CODEMCD/TIL/blob/master/TIP/%EB%8B%A8%EC%B6%95%ED%82%A4%20%EB%AA%A8%EC%9D%8C.md)
 - [Markdown](https://github.com/CODEMCD/TIL/blob/master/TIP/Markdown.md)
 - [IntelliJ](https://github.com/CODEMCD/TIL/blob/master/TIP/IntelliJ.md)
 - [MAC](https://github.com/CODEMCD/TIL/blob/master/TIP/Mac.md)
 
 ### WEB
+- [Gradle 환경에서 Vue.js 프로젝트 연동하기](https://github.com/CODEMCD/TIL/blob/master/WEB/Gradle%ED%99%98%EA%B2%BD%EC%97%90%EC%84%9C%20Vue.js%20%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%ED%95%98%EA%B8%B0.md)
 - [JSON](https://github.com/CODEMCD/TIL/blob/master/WEB/JSON.md)
 
 
