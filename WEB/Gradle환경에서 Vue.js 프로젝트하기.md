@@ -45,6 +45,8 @@ $ sudo npm i -g @vue/cli
 $ vue create frontend
 ```
 
+- default 설정으로 실행
+
 ### 3. Vue 플러그인 설치
 플러그인 설치는 Vue 프로젝트 디렉토리 내부에서 실행한다.
 
@@ -59,6 +61,7 @@ $ vue add router
 ```
 
 - Vuetify 설치
+  - default로 설정
 
 ```
 $ vue add vuetify
@@ -144,3 +147,9 @@ public class HomeController {
 
 ### 7. 서버 실행하기
 모든 세팅이 끝난 후 서버를 실행하고 `http://localhost:8080/`로 접속하여 Vue 프로젝트가 정상적으로 동작하는지 확인한다.
+
+
+## 참고자료
+- <https://github.com/lv4-project/Woowahan-Tech-Co-learning>
+- <https://github.com/srs/gradle-node-plugin/blob/master/docs/node.md>
+- **갓러너덕**
