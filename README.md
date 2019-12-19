@@ -48,7 +48,7 @@
 
 
 ### 우아한테크코스
-- [우아한테크코스 개념 정리(Over-10-Study)](https://github.com/Over-10-Study/woowa-tech-wiki)
+- [우아한테크코스 개념 총 정리(Over-10-Study)](https://github.com/Over-10-Study/woowa-tech-wiki)
 - [Level 1 피드백 모음](https://github.com/CODEMCD/TIL/blob/master/%EC%9A%B0%EC%95%84%ED%95%9C%ED%85%8C%ED%81%AC%EC%BD%94%EC%8A%A4/Level1%20%ED%94%BC%EB%93%9C%EB%B0%B1%20%EB%AA%A8%EC%9D%8C.md)
 - [Level 2 피드백 모음](https://github.com/CODEMCD/TIL/blob/master/%EC%9A%B0%EC%95%84%ED%95%9C%ED%85%8C%ED%81%AC%EC%BD%94%EC%8A%A4/Level2%20%ED%94%BC%EB%93%9C%EB%B0%B1%20%EB%AA%A8%EC%9D%8C.md)
 - [강의 정리 모음](https://github.com/CODEMCD/TIL/blob/master/%EC%9A%B0%EC%95%84%ED%95%9C%ED%85%8C%ED%81%AC%EC%BD%94%EC%8A%A4/%EA%B0%95%EC%9D%98%20%EC%A0%95%EB%A6%AC%20%EB%AA%A8%EC%9D%8C.md)
