@@ -28,6 +28,8 @@
 - [GIT](#git)
 - [우아한테크코스](#우아한테크코스)
 - [도서 정리](#도서-정리)
+- [운영체제(OS)](#운영체제(OS))
+- [자료구조 및 알고리즘](#자료구조-및-알고리즘)
 
 ---
 
@@ -104,3 +106,12 @@
 
 
 ### 데이터베이스
+
+
+### 자료구조 및 알고리즘
+- 정렬 알고리즘
+  - [버블 정렬](https://github.com/CODEMCD/TIL/blob/master/DataStructure/%EB%B2%84%EB%B8%94%20%EC%A0%95%EB%A0%AC.md)
+  - [선택 정렬](https://github.com/CODEMCD/TIL/blob/master/DataStructure/%EC%84%A0%ED%83%9D%20%EC%A0%95%EB%A0%AC.md)
+  - [삽입 정렬](https://github.com/CODEMCD/TIL/blob/master/DataStructure/%EC%82%BD%EC%9E%85%20%EC%A0%95%EB%A0%AC.md)
+  - [합병 정렬](https://github.com/CODEMCD/TIL/blob/master/DataStructure/%ED%95%A9%EB%B3%91%20%EC%A0%95%EB%A0%AC.md)
+  - [퀵 정렬](https://github.com/CODEMCD/TIL/blob/master/DataStructure/%ED%80%B5%20%EC%A0%95%EB%A0%AC.md)
