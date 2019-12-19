@@ -33,7 +33,7 @@
 
 ---
 
-### 개발 팁(TIP)
+### 개발 팁
 - [읽을거리](https://github.com/CODEMCD/TIL/blob/master/TIP/%EC%9D%BD%EC%9D%84%EA%B1%B0%EB%A6%AC.md)
 - [단축키 모음(MAC, Atom, IntelliJ, Chrome, Tmux)](https://github.com/CODEMCD/TIL/blob/master/TIP/%EB%8B%A8%EC%B6%95%ED%82%A4%20%EB%AA%A8%EC%9D%8C.md)
 - [Markdown](https://github.com/CODEMCD/TIL/blob/master/TIP/Markdown.md)
@@ -79,7 +79,7 @@
 </details>
 
 
-### 운영체제(OS)
+### 운영체제
 - [운영체제 KOCW 양희재 교수님 강의](http://www.kocw.net/home/search/kemView.do?kemId=978503)
   - [1장 운영체제 서론](https://github.com/CODEMCD/TIL/blob/master/OS/1%EC%9E%A5-%EC%9A%B4%EC%98%81%EC%B2%B4%EC%A0%9C%20%EC%84%9C%EB%A1%A0.md)
   - [2장 운영체제 역사](https://github.com/CODEMCD/TIL/blob/master/OS/2%EC%9E%A5-%EC%9A%B4%EC%98%81%EC%B2%B4%EC%A0%9C%20%EC%97%AD%EC%82%AC.md)
