@@ -77,6 +77,8 @@
 - [8강 패턴 매칭에 의한 검색](https://github.com/CODEMCD/TIL/blob/master/%EB%8F%84%EC%84%9C/SQL%20%EC%B2%AB%EA%B1%B8%EC%9D%8C/8%EA%B0%95%20%ED%8C%A8%ED%84%B4%20%EB%A7%A4%EC%B9%AD%EC%97%90%20%EC%9D%98%ED%95%9C%20%EA%B2%80%EC%83%89.md)
 - [9강 정렬-ORDER BY](https://github.com/CODEMCD/TIL/blob/master/%EB%8F%84%EC%84%9C/SQL%20%EC%B2%AB%EA%B1%B8%EC%9D%8C/9%EA%B0%95%20%EC%A0%95%EB%A0%AC-ORDER%20BY.md)
 - [10강 복수의 열을 지정해 정렬하기](https://github.com/CODEMCD/TIL/blob/master/%EB%8F%84%EC%84%9C/SQL%20%EC%B2%AB%EA%B1%B8%EC%9D%8C/10%EA%B0%95%20%EB%B3%B5%EC%88%98%EC%9D%98%20%EC%97%B4%EC%9D%84%20%EC%A7%80%EC%A0%95%ED%95%B4%20%EC%A0%95%EB%A0%AC%ED%95%98%EA%B8%B0.md)
+- [11강 결과 행 제한하기](https://github.com/CODEMCD/TIL/blob/master/%EB%8F%84%EC%84%9C/SQL%20%EC%B2%AB%EA%B1%B8%EC%9D%8C/11%EA%B0%95%20%EA%B2%B0%EA%B3%BC%20%ED%96%89%20%EC%A0%9C%ED%95%9C%ED%95%98%EA%B8%B0-LIMIT.md)
+- [12강 수치 연산](https://github.com/CODEMCD/TIL/blob/master/%EB%8F%84%EC%84%9C/SQL%20%EC%B2%AB%EA%B1%B8%EC%9D%8C/12%EA%B0%95%20%EC%88%98%EC%B9%98%20%EC%97%B0%EC%82%B0.md)
 
 </div>
 </details>
