@@ -63,9 +63,28 @@
 
 - `<div markdown="1">`는 Markdown임을 인식하는 코드이다.
 
+### 3. 강조 구문
+#### 미리보기
+*기울임*
+
+**굵게**
+
+~~취소선~~
+
+#### 문법
+```
+*기울임*
+_기울임_
+**굵게**
+__굵게__
+~~취소선~~
+```
+
+
 ### 참고 자료
 - [목차 만들기](https://png93.github.io/markdown-link/#%EA%B0%9C%EB%B0%9C%EC%9D%84-%ED%95%98%EA%B3%A0-%EC%8B%B6%EC%96%B4%EC%9A%94)
 - [접기/펼치기 버튼](https://inasie.github.io/it%EC%9D%BC%EB%B0%98/%EB%A7%88%ED%81%AC%EB%8B%A4%EC%9A%B4-expander-control/)
+- [강조 구문](http://guswnsxodlf.github.io/how-to-write-markdown)
 
 
 ## 유용한 마크다운관련 사이트
