@@ -111,6 +111,7 @@
 
 
 ### 데이터베이스
+- [데이터베이스 Key 종류와 개념](https://github.com/CODEMCD/TIL/blob/master/Database/Key.md)
 
 
 ### 자료구조 및 알고리즘
