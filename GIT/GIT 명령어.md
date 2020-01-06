@@ -11,5 +11,17 @@
 
 
 ## PR 번호 코드 불러오기
-- `~/.gitconfig`에 alias 내용을 복붙하고 `git pr [PR 번호] [remote 저장소]` 이런식으로 명령어를 입력하면 브랜치 checkout까지 해서 가져올 수 있다.
+1. `~/.gitconfig`에 아래의 내용(alias)을 복사 붙여넣기한다.
+
+```
+# for github remotes
+[alias]
+  pr  = "!f() { git fetch -fu ${2:-$(git remote |grep ^upstream || echo origin)} refs/pull/$1/head:pr/$1 && git checkout pr/$1; }; f"
+  pr-clean = "!git for-each-ref refs/heads/pr/* --format='%(refname)' | while read ref ; do branch=${ref#refs/heads/} ; git branch -D $branch ; done"
+# for bitbucket/stash remotes
+  spr  = "!f() { git fetch -fu ${2:-$(git remote |grep ^upstream || echo origin)} refs/pull-requests/$1/from:pr/$1 && git checkout pr/$1; }; f"
+```
+
+2.  `git pr [PR 번호] [remote 저장소]` 와 같이 명령어를 입력하면 해당 브랜치를 checkout까지 해서 가져올 수 있다.
+
 - 참고 링크: <https://gist.github.com/gnarf/5406589>
