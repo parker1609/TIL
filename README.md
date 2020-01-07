@@ -41,9 +41,14 @@
 - [IntelliJ](https://github.com/CODEMCD/TIL/blob/master/TIP/IntelliJ.md)
 - [MAC](https://github.com/CODEMCD/TIL/blob/master/TIP/Mac.md)
 
+
 ### WEB
 - [Gradle 환경에서 Vue.js 프로젝트 연동하기](https://github.com/CODEMCD/TIL/blob/master/WEB/Gradle%ED%99%98%EA%B2%BD%EC%97%90%EC%84%9C%20Vue.js%20%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%ED%95%98%EA%B8%B0.md)
 - [JSON](https://github.com/CODEMCD/TIL/blob/master/WEB/JSON.md)
+
+
+### Test Code
+- [소프트웨어 테스트 안티 패턴](https://github.com/CODEMCD/TIL/blob/master/TEST%20CODE/%EC%86%8C%ED%94%84%ED%8A%B8%EC%9B%A8%EC%96%B4%20%ED%85%8C%EC%8A%A4%ED%8A%B8%20%EC%95%88%ED%8B%B0%20%ED%8C%A8%ED%84%B4.md)
 
 
 ### GIT
@@ -61,6 +66,8 @@
 
 
 ### 도서 정리
+- [코딩을 지탱하는 기술](https://github.com/CODEMCD/TIL/blob/master/%EB%8F%84%EC%84%9C/%EC%BD%94%EB%94%A9%EC%9D%84%20%EC%A7%80%ED%83%B1%ED%95%98%EB%8A%94%20%EA%B8%B0%EC%88%A0.md)
+
 #### [SQL 첫걸음](http://www.kyobobook.co.kr/product/detailViewKor.laf?ejkGb=KOR&mallGb=KOR&barcode=9788968482311&orderClick=LAG&Kc=)
 
 <details>

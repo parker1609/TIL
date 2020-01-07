@@ -1,14 +1,15 @@
 # Two Sum
 - [문제 링크](https://leetcode.com/problems/two-sum/)
 
-## 문제 풀이
-### 체크 사항
+
+## 문제풀이
 - 같은 인덱스를 두 번 사용하지 않는다.
 - 입력 값은 오름차순이 아닐 수 있다.
 - 이진 탐색으로 시간복잡도를 개선할 수 있다.
 
-### 풀이 코드
-#### 시간복잡도: O(N^2)
+
+## 풀이코드
+- 시간복잡도: O(N^2)
 
 ```cpp
 class Solution {
@@ -33,7 +34,7 @@ public:
 };
 ```
 
-#### 시간복잡도: O(NlogN)
+- 시간복잡도: O(NlogN)
 
 ```cpp
 class Solution {
