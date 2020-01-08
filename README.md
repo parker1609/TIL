@@ -68,10 +68,8 @@
 ### 도서 정리
 - [코딩을 지탱하는 기술](https://github.com/CODEMCD/TIL/blob/master/%EB%8F%84%EC%84%9C/%EC%BD%94%EB%94%A9%EC%9D%84%20%EC%A7%80%ED%83%B1%ED%95%98%EB%8A%94%20%EA%B8%B0%EC%88%A0.md)
 
-#### [SQL 첫걸음](http://www.kyobobook.co.kr/product/detailViewKor.laf?ejkGb=KOR&mallGb=KOR&barcode=9788968482311&orderClick=LAG&Kc=)
-
 <details>
-<summary>접기/펼치기 버튼</summary>
+<summary>SQL 첫걸음</summary>
 <div markdown="1">
 
 - [1강 데이터베이스](https://github.com/CODEMCD/TIL/blob/master/%EB%8F%84%EC%84%9C/SQL%20%EC%B2%AB%EA%B1%B8%EC%9D%8C/1%EA%B0%95%20%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B2%A0%EC%9D%B4%EC%8A%A4.md)
@@ -132,3 +130,8 @@
 
 ### LeetCode
 - [Two Sum](https://github.com/CODEMCD/TIL/blob/master/LeetCode/TwoSum.md)
+- [Counting Bits](https://github.com/CODEMCD/TIL/blob/master/LeetCode/Counting%20Bits.md)
+
+
+### 구직활동
+- [주니어 백엔드 기술 면접 질문 리스트]()
