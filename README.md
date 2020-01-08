@@ -134,4 +134,4 @@
 
 
 ### 구직활동
-- [주니어 백엔드 기술 면접 질문 리스트]()
+- [주니어 백엔드 기술 면접 질문 리스트](https://github.com/CODEMCD/TIL/blob/master/Recruit/Junior-Backend-Interview-Question-List.md)
