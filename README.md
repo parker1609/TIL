@@ -19,7 +19,6 @@
 - TIL는 기본적으로 책, 세미나, 강의 등을 요약 및 정리한다.
 - 더 자세히 정리하고 싶은 주제나 공유하고 싶은 내용은 [블로그](https://velog.io/@codemcd)에 작성한다.
 - 반드시 출처를 남긴다.
-- 리스트의 개수가 많아지면 `접기/펼치기 버튼`을 이용한다.
 
 
 ## :book: 분류
@@ -74,26 +73,21 @@
 ### 도서 정리
 - [코딩을 지탱하는 기술](https://github.com/CODEMCD/TIL/blob/master/%EB%8F%84%EC%84%9C/%EC%BD%94%EB%94%A9%EC%9D%84%20%EC%A7%80%ED%83%B1%ED%95%98%EB%8A%94%20%EA%B8%B0%EC%88%A0.md)
 
-<details>
-<summary>SQL 첫걸음</summary>
-<div markdown="1">
-
-- [1강 데이터베이스](https://github.com/CODEMCD/TIL/blob/master/%EB%8F%84%EC%84%9C/SQL%20%EC%B2%AB%EA%B1%B8%EC%9D%8C/1%EA%B0%95%20%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B2%A0%EC%9D%B4%EC%8A%A4.md)
-- [2강 다양한 데이터베이스](https://github.com/CODEMCD/TIL/blob/master/%EB%8F%84%EC%84%9C/SQL%20%EC%B2%AB%EA%B1%B8%EC%9D%8C/2%EA%B0%95%20%EB%8B%A4%EC%96%91%ED%95%9C%20%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B2%A0%EC%9D%B4%EC%8A%A4.md)
-- [3강 데이터베이스 서버](https://github.com/CODEMCD/TIL/blob/master/%EB%8F%84%EC%84%9C/SQL%20%EC%B2%AB%EA%B1%B8%EC%9D%8C/3%EA%B0%95%20%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B2%A0%EC%9D%B4%EC%8A%A4%20%EC%84%9C%EB%B2%84.md)
-- [4강 Hello World 실행하기](https://github.com/CODEMCD/TIL/blob/master/%EB%8F%84%EC%84%9C/SQL%20%EC%B2%AB%EA%B1%B8%EC%9D%8C/4%EA%B0%95%20Hello%20World%20%EC%8B%A4%ED%96%89%ED%95%98%EA%B8%B0.md)
-- [5강 테이블 구조 참조하기](https://github.com/CODEMCD/TIL/blob/master/%EB%8F%84%EC%84%9C/SQL%20%EC%B2%AB%EA%B1%B8%EC%9D%8C/5%EA%B0%95%20%ED%85%8C%EC%9D%B4%EB%B8%94%20%EA%B5%AC%EC%A1%B0%20%EC%B0%B8%EC%A1%B0%ED%95%98%EA%B8%B0.md)
-- [6강 검색 조건 지정하기](https://github.com/CODEMCD/TIL/blob/master/%EB%8F%84%EC%84%9C/SQL%20%EC%B2%AB%EA%B1%B8%EC%9D%8C/6%EA%B0%95%20%EA%B2%80%EC%83%89%20%EC%A1%B0%EA%B1%B4%20%EC%A7%80%EC%A0%95%ED%95%98%EA%B8%B0.md)
-- [7강 조건 조합하기](https://github.com/CODEMCD/TIL/blob/master/%EB%8F%84%EC%84%9C/SQL%20%EC%B2%AB%EA%B1%B8%EC%9D%8C/7%EA%B0%95%20%EC%A1%B0%EA%B1%B4%20%EC%A1%B0%ED%95%A9%ED%95%98%EA%B8%B0.md)
-- [8강 패턴 매칭에 의한 검색](https://github.com/CODEMCD/TIL/blob/master/%EB%8F%84%EC%84%9C/SQL%20%EC%B2%AB%EA%B1%B8%EC%9D%8C/8%EA%B0%95%20%ED%8C%A8%ED%84%B4%20%EB%A7%A4%EC%B9%AD%EC%97%90%20%EC%9D%98%ED%95%9C%20%EA%B2%80%EC%83%89.md)
-- [9강 정렬-ORDER BY](https://github.com/CODEMCD/TIL/blob/master/%EB%8F%84%EC%84%9C/SQL%20%EC%B2%AB%EA%B1%B8%EC%9D%8C/9%EA%B0%95%20%EC%A0%95%EB%A0%AC-ORDER%20BY.md)
-- [10강 복수의 열을 지정해 정렬하기](https://github.com/CODEMCD/TIL/blob/master/%EB%8F%84%EC%84%9C/SQL%20%EC%B2%AB%EA%B1%B8%EC%9D%8C/10%EA%B0%95%20%EB%B3%B5%EC%88%98%EC%9D%98%20%EC%97%B4%EC%9D%84%20%EC%A7%80%EC%A0%95%ED%95%B4%20%EC%A0%95%EB%A0%AC%ED%95%98%EA%B8%B0.md)
-- [11강 결과 행 제한하기](https://github.com/CODEMCD/TIL/blob/master/%EB%8F%84%EC%84%9C/SQL%20%EC%B2%AB%EA%B1%B8%EC%9D%8C/11%EA%B0%95%20%EA%B2%B0%EA%B3%BC%20%ED%96%89%20%EC%A0%9C%ED%95%9C%ED%95%98%EA%B8%B0-LIMIT.md)
-- [12강 수치 연산](https://github.com/CODEMCD/TIL/blob/master/%EB%8F%84%EC%84%9C/SQL%20%EC%B2%AB%EA%B1%B8%EC%9D%8C/12%EA%B0%95%20%EC%88%98%EC%B9%98%20%EC%97%B0%EC%82%B0.md)
-- [13강 문자열 연산](https://github.com/CODEMCD/TIL/blob/master/%EB%8F%84%EC%84%9C/SQL%20%EC%B2%AB%EA%B1%B8%EC%9D%8C/13%EA%B0%95%20%EB%AC%B8%EC%9E%90%EC%97%B4%20%EC%97%B0%EC%82%B0.md)
-
-</div>
-</details>
+- SQL 첫걸음
+    - [1강 데이터베이스](https://github.com/CODEMCD/TIL/blob/master/%EB%8F%84%EC%84%9C/SQL%20%EC%B2%AB%EA%B1%B8%EC%9D%8C/1%EA%B0%95%20%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B2%A0%EC%9D%B4%EC%8A%A4.md)
+    - [2강 다양한 데이터베이스](https://github.com/CODEMCD/TIL/blob/master/%EB%8F%84%EC%84%9C/SQL%20%EC%B2%AB%EA%B1%B8%EC%9D%8C/2%EA%B0%95%20%EB%8B%A4%EC%96%91%ED%95%9C%20%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B2%A0%EC%9D%B4%EC%8A%A4.md)
+    - [3강 데이터베이스 서버](https://github.com/CODEMCD/TIL/blob/master/%EB%8F%84%EC%84%9C/SQL%20%EC%B2%AB%EA%B1%B8%EC%9D%8C/3%EA%B0%95%20%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B2%A0%EC%9D%B4%EC%8A%A4%20%EC%84%9C%EB%B2%84.md)
+    - [4강 Hello World 실행하기](https://github.com/CODEMCD/TIL/blob/master/%EB%8F%84%EC%84%9C/SQL%20%EC%B2%AB%EA%B1%B8%EC%9D%8C/4%EA%B0%95%20Hello%20World%20%EC%8B%A4%ED%96%89%ED%95%98%EA%B8%B0.md)
+    - [5강 테이블 구조 참조하기](https://github.com/CODEMCD/TIL/blob/master/%EB%8F%84%EC%84%9C/SQL%20%EC%B2%AB%EA%B1%B8%EC%9D%8C/5%EA%B0%95%20%ED%85%8C%EC%9D%B4%EB%B8%94%20%EA%B5%AC%EC%A1%B0%20%EC%B0%B8%EC%A1%B0%ED%95%98%EA%B8%B0.md)
+    - [6강 검색 조건 지정하기](https://github.com/CODEMCD/TIL/blob/master/%EB%8F%84%EC%84%9C/SQL%20%EC%B2%AB%EA%B1%B8%EC%9D%8C/6%EA%B0%95%20%EA%B2%80%EC%83%89%20%EC%A1%B0%EA%B1%B4%20%EC%A7%80%EC%A0%95%ED%95%98%EA%B8%B0.md)
+    - [7강 조건 조합하기](https://github.com/CODEMCD/TIL/blob/master/%EB%8F%84%EC%84%9C/SQL%20%EC%B2%AB%EA%B1%B8%EC%9D%8C/7%EA%B0%95%20%EC%A1%B0%EA%B1%B4%20%EC%A1%B0%ED%95%A9%ED%95%98%EA%B8%B0.md)
+    - [8강 패턴 매칭에 의한 검색](https://github.com/CODEMCD/TIL/blob/master/%EB%8F%84%EC%84%9C/SQL%20%EC%B2%AB%EA%B1%B8%EC%9D%8C/8%EA%B0%95%20%ED%8C%A8%ED%84%B4%20%EB%A7%A4%EC%B9%AD%EC%97%90%20%EC%9D%98%ED%95%9C%20%EA%B2%80%EC%83%89.md)
+    - [9강 정렬-ORDER BY](https://github.com/CODEMCD/TIL/blob/master/%EB%8F%84%EC%84%9C/SQL%20%EC%B2%AB%EA%B1%B8%EC%9D%8C/9%EA%B0%95%20%EC%A0%95%EB%A0%AC-ORDER%20BY.md)
+    - [10강 복수의 열을 지정해 정렬하기](https://github.com/CODEMCD/TIL/blob/master/%EB%8F%84%EC%84%9C/SQL%20%EC%B2%AB%EA%B1%B8%EC%9D%8C/10%EA%B0%95%20%EB%B3%B5%EC%88%98%EC%9D%98%20%EC%97%B4%EC%9D%84%20%EC%A7%80%EC%A0%95%ED%95%B4%20%EC%A0%95%EB%A0%AC%ED%95%98%EA%B8%B0.md)
+    - [11강 결과 행 제한하기](https://github.com/CODEMCD/TIL/blob/master/%EB%8F%84%EC%84%9C/SQL%20%EC%B2%AB%EA%B1%B8%EC%9D%8C/11%EA%B0%95%20%EA%B2%B0%EA%B3%BC%20%ED%96%89%20%EC%A0%9C%ED%95%9C%ED%95%98%EA%B8%B0-LIMIT.md)
+    - [12강 수치 연산](https://github.com/CODEMCD/TIL/blob/master/%EB%8F%84%EC%84%9C/SQL%20%EC%B2%AB%EA%B1%B8%EC%9D%8C/12%EA%B0%95%20%EC%88%98%EC%B9%98%20%EC%97%B0%EC%82%B0.md)
+    - [13강 문자열 연산](https://github.com/CODEMCD/TIL/blob/master/%EB%8F%84%EC%84%9C/SQL%20%EC%B2%AB%EA%B1%B8%EC%9D%8C/13%EA%B0%95%20%EB%AC%B8%EC%9E%90%EC%97%B4%20%EC%97%B0%EC%82%B0.md)
+    - [14강 날짜 연산](https://github.com/CODEMCD/TIL/blob/master/%EB%8F%84%EC%84%9C/SQL%20%EC%B2%AB%EA%B1%B8%EC%9D%8C/14%EA%B0%95%20%EB%82%A0%EC%A7%9C%20%EC%97%B0%EC%82%B0.md)
 
 
 ### 운영체제
@@ -125,6 +119,10 @@
 ### 데이터베이스
 - [데이터베이스 Key 종류와 개념](https://github.com/CODEMCD/TIL/blob/master/Database/Key.md)
 
+#### CMU 데이터베이스 강좌
+- [CMU 15-445/645](https://15445.courses.cs.cmu.edu/fall2019/)
+- [동영상 강의](https://www.youtube.com/playlist?list=PLSE8ODhjZXjbohkNBWQs_otTrBTrjyohi)
+    - [Lecture 03 정리]()
 
 ### 자료구조 및 알고리즘
 - 정렬 알고리즘
@@ -139,7 +137,14 @@
 - [Two Sum](https://github.com/CODEMCD/TIL/blob/master/LeetCode/TwoSum.md)
 - [Counting Bits](https://github.com/CODEMCD/TIL/blob/master/LeetCode/Counting%20Bits.md)
 - [Merge Two Binary Trees](https://github.com/CODEMCD/TIL/blob/master/LeetCode/Merge%20Two%20Binary%20Trees.md)
-- [Maximum Depth of Binary Tree]()
+- [Maximum Depth of Binary Tree](https://github.com/CODEMCD/TIL/blob/master/LeetCode/Maximum%20Depth%20of%20Binary%20Tree.md)
+- [Single Number](https://github.com/CODEMCD/TIL/blob/master/LeetCode/Single%20Number.md)
+- [Invert Binary Tree]()
+- [Reverse Linked List]()
+- [Move Zeroes]()
+- [Majority Element]()
+- [Find All Numbers Disappeared in an Array]()
+- [Merge Two Sorted Lists]()
 
 
 ### 구직활동
