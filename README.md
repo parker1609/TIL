@@ -139,12 +139,13 @@
 - [Merge Two Binary Trees](https://github.com/CODEMCD/TIL/blob/master/LeetCode/Merge%20Two%20Binary%20Trees.md)
 - [Maximum Depth of Binary Tree](https://github.com/CODEMCD/TIL/blob/master/LeetCode/Maximum%20Depth%20of%20Binary%20Tree.md)
 - [Single Number](https://github.com/CODEMCD/TIL/blob/master/LeetCode/Single%20Number.md)
-- [Invert Binary Tree]()
-- [Reverse Linked List]()
-- [Move Zeroes]()
-- [Majority Element]()
-- [Find All Numbers Disappeared in an Array]()
-- [Merge Two Sorted Lists]()
+- [Invert Binary Tree](https://github.com/CODEMCD/TIL/blob/master/LeetCode/Invert%20Binary%20Tree.md)
+- [Reverse Linked List](https://github.com/CODEMCD/TIL/blob/master/LeetCode/Reverse%20Linked%20List.md)
+- [Move Zeroes](https://github.com/CODEMCD/TIL/blob/master/LeetCode/Move%20Zeroes.md)
+- [Majority Element](https://github.com/CODEMCD/TIL/blob/master/LeetCode/Majority%20Element.md)
+- [Find All Numbers Disappeared in an Array](https://github.com/CODEMCD/TIL/blob/master/LeetCode/448.md)
+- [Merge Two Sorted Lists](https://github.com/CODEMCD/TIL/blob/master/LeetCode/21.md)
+- [Best Time to Buy and Sell Stock]()
 
 
 ### 구직활동
