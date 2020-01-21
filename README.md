@@ -32,6 +32,7 @@
 - [운영체제(OS)](#운영체제)
 - [자료구조 및 알고리즘](#자료구조-및-알고리즘)
 - [LeetCode](#leetcode)
+- [HackerRank](#hackerrank)
 
 ---
 
@@ -145,7 +146,13 @@
 - [Majority Element](https://github.com/CODEMCD/TIL/blob/master/LeetCode/Majority%20Element.md)
 - [Find All Numbers Disappeared in an Array](https://github.com/CODEMCD/TIL/blob/master/LeetCode/448.md)
 - [Merge Two Sorted Lists](https://github.com/CODEMCD/TIL/blob/master/LeetCode/21.md)
-- [Best Time to Buy and Sell Stock]()
+- [Best Time to Buy and Sell Stock](https://github.com/CODEMCD/TIL/blob/master/LeetCode/121.md)
+
+
+### HackerRank
+- SQL
+    - [Basic Select]()
+    - [Basic Join]()
 
 
 ### 구직활동
