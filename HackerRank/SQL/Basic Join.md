@@ -57,3 +57,13 @@ FROM COUNTRY country
 INNER JOIN CITY city ON country.CODE = city.COUNTRYCODE
 GROUP BY country.CONTINENT
 ```
+
+### The Report
+- [문제 링크](https://www.hackerrank.com/challenges/the-report/problem)
+
+```sql
+SELECT (CASE g.grade >= 8 WHEN TRUE THEN s.name ELSE null END), g.grade, s.marks
+FROM students s
+INNER JOIN grades g ON s.marks BETWEEN min_mark AND max_mark
+ORDER BY g.grade DESC, s.name, s.marks
+```

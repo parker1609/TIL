@@ -40,7 +40,8 @@
 
 
 ### 개발 일지
-- [2020-01-28]()
+- [2020-01-28](https://github.com/CODEMCD/TIL/blob/master/Daily%20Development/2020-01-28.md)
+- [2020-01-29]()
 
 
 ### PS 
@@ -57,8 +58,9 @@
     - [Find All Numbers Disappeared in an Array](https://github.com/CODEMCD/TIL/blob/master/LeetCode/448.md)(Array)
     - [Merge Two Sorted Lists](https://github.com/CODEMCD/TIL/blob/master/LeetCode/21.md)(Linked List)
     - [Best Time to Buy and Sell Stock](https://github.com/CODEMCD/TIL/blob/master/LeetCode/121.md)(Array, Dynamic Programming)
-    - [Maximum Subarray]()(Array, Divide and Conquer, Dynamic Programming)
-    - [Symmetric Tree]()(Tree, Depth-first Search, Breadth-first Search)
+    - [Maximum Subarray](https://github.com/CODEMCD/TIL/blob/master/LeetCode/Maximum%20Subarray.md)(Array, Divide and Conquer, Dynamic Programming)
+    - [Symmetric Tree](https://github.com/CODEMCD/TIL/blob/master/LeetCode/Symmetric%20Tree.md)(Tree, Depth-first Search, Breadth-first Search)
+    - [Min Stack]()(Stack, Design)
 
 
 ### SQL
