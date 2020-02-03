@@ -36,7 +36,13 @@
 ---
 
 ### 읽을거리
-- [공유하고 싶은 글](https://github.com/CODEMCD/TIL/blob/master/TIP/%EC%9D%BD%EC%9D%84%EA%B1%B0%EB%A6%AC.md)
+- 개발 컨텐츠 모음
+    - [고퀄리티 개발 컨텐츠 모음](https://github.com/Integerous/goQuality-dev-contents)
+    - [국내외 개발자 모음](https://github.com/sarojaba/awesome-devblog)
+    - [개발자 회고 모음](https://github.com/oaksong/developers-retrospective)
+- 취업 관련
+    - [주니어 개발자 채용 정보](https://github.com/jojoldu/junior-recruit-scheduler)
+    - [신입을 위한 코딩 인턴뷰](https://github.com/JaeYeopHan/Interview_Question_for_Beginner)
 
 
 ### 개발 일지
