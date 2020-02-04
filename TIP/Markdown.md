@@ -1,6 +1,6 @@
 # Markdown
 
-## 잊기 쉬운 Markdown 문법
+## Markdown 문법
 ### 1. 목차 만들기
 #### 미리보기
 ---
@@ -80,11 +80,62 @@ __굵게__
 ~~취소선~~
 ```
 
+### 4. 링크
+#### 4.1. 일반 링크
+#### 미리보기
+---
 
-### 참고 자료
-- [목차 만들기](https://png93.github.io/markdown-link/#%EA%B0%9C%EB%B0%9C%EC%9D%84-%ED%95%98%EA%B3%A0-%EC%8B%B6%EC%96%B4%EC%9A%94)
-- [접기/펼치기 버튼](https://inasie.github.io/it%EC%9D%BC%EB%B0%98/%EB%A7%88%ED%81%AC%EB%8B%A4%EC%9A%B4-expander-control/)
-- [강조 구문](http://guswnsxodlf.github.io/how-to-write-markdown)
+[GITHUB](https://github.com/)
+
+---
+
+#### 문법
+
+```
+[GITHUB](https://github.com/)
+```
+
+#### 4.2. 새창으로 링크
+#### 미리보기
+---
+
+[GITHUB](https://github.com/){: target="_blank" }
+
+---
+
+#### 문법
+
+```
+[GITHUB](https://github.com/){: target="_blank" }
+```
+
+#### 4.3 새창으로 버튼 링크
+#### 미리보기
+---
+
+[GITHUB](https://github.com/){: .btn.btn-default target="_blank" }
+
+---
+
+#### 문법
+
+```
+[GITHUB](https://github.com/){: .btn.btn-default target="_blank" }
+```
+
+#### 4.4 자동 링크
+#### 미리보기
+---
+
+<https://github.com/>
+
+---
+
+#### 문법
+
+```
+<https://github.com/>
+```
 
 
 ## 유용한 마크다운관련 사이트

@@ -20,7 +20,7 @@
 
 
 ## :warning: 제약사항
-- Markdown 문법으로 작성한다.
+- [Markdown 문법](https://github.com/CODEMCD/TIL/blob/master/TIP/Markdown.md)으로 작성한다.
 - 다시 보기 쉽게 분류한다.
 - 항상 왜를 생각하며, 내가 구현하거나 해결한 과정과 이유를 적는다.
 - 문제될 것이 없다면 이전 파일은 지우지 않는다.
@@ -36,19 +36,23 @@
 ---
 
 ### 읽을거리
+- [My Archive]()
 - 개발 컨텐츠 모음
     - [고퀄리티 개발 컨텐츠 모음](https://github.com/Integerous/goQuality-dev-contents)
     - [국내외 개발자 모음](https://github.com/sarojaba/awesome-devblog)
     - [개발자 회고 모음](https://github.com/oaksong/developers-retrospective)
+    - [다양한 Git Tip[번역]](https://github.com/mingrammer/git-tips)
 - 취업 관련
     - [주니어 개발자 채용 정보](https://github.com/jojoldu/junior-recruit-scheduler)
     - [신입을 위한 코딩 인턴뷰](https://github.com/JaeYeopHan/Interview_Question_for_Beginner)
+- 오픈소스
+    - [다양한 프론트엔드 및 백엔드 언어 예제 코드](https://github.com/gothinkster/realworld)
 
 
 ### 개발 일지
 - [2020-01-28](https://github.com/CODEMCD/TIL/blob/master/Daily%20Development/2020-01-28.md)
 - [2020-01-29](https://github.com/CODEMCD/TIL/blob/master/Daily%20Development/2020-01-29.md)
-- [2020-01-30]()
+- [2020-01-30](https://github.com/CODEMCD/TIL/blob/master/Daily%20Development/2020-01-30.md)
 
 
 ### PS 
@@ -78,3 +82,4 @@
 
 ### 구직활동
 - [주니어 백엔드 기술 면접 질문 리스트](https://github.com/CODEMCD/TIL/blob/master/Recruit/Junior-Backend-Interview-Question-List.md)
+- [코딩 인터뷰 완전 분석 정리]()
