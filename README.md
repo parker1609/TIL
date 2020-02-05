@@ -36,7 +36,7 @@
 ---
 
 ### 읽을거리
-- [My Archive]()
+- [My Archive](https://github.com/CODEMCD/TIL/blob/master/TIP/Archive.md)
 - 개발 컨텐츠 모음
     - [고퀄리티 개발 컨텐츠 모음](https://github.com/Integerous/goQuality-dev-contents)
     - [국내외 개발자 모음](https://github.com/sarojaba/awesome-devblog)
@@ -50,9 +50,8 @@
 
 
 ### 개발 일지
-- [2020-01-28](https://github.com/CODEMCD/TIL/blob/master/Daily%20Development/2020-01-28.md)
-- [2020-01-29](https://github.com/CODEMCD/TIL/blob/master/Daily%20Development/2020-01-29.md)
-- [2020-01-30](https://github.com/CODEMCD/TIL/blob/master/Daily%20Development/2020-01-30.md)
+- [개발 일지]()
+- [버그 리포팅]()
 
 
 ### PS 
@@ -82,4 +81,4 @@
 
 ### 구직활동
 - [주니어 백엔드 기술 면접 질문 리스트](https://github.com/CODEMCD/TIL/blob/master/Recruit/Junior-Backend-Interview-Question-List.md)
-- [코딩 인터뷰 완전 분석 정리]()
+- [코딩 인터뷰 완전 분석 정리](https://github.com/CODEMCD/TIL/blob/master/Recruit/%EC%BD%94%EB%94%A9%20%EC%9D%B8%ED%84%B0%EB%B7%B0%20%EC%99%84%EC%A0%84%EB%B6%84%EC%84%9D.md)
