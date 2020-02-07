@@ -36,7 +36,6 @@
 ---
 
 ### 읽을거리
-- [My Archive](https://github.com/CODEMCD/TIL/blob/master/TIP/Archive.md)
 - 개발 컨텐츠 모음
     - [고퀄리티 개발 컨텐츠 모음](https://github.com/Integerous/goQuality-dev-contents)
     - [국내외 개발자 모음](https://github.com/sarojaba/awesome-devblog)
@@ -50,6 +49,7 @@
 
 
 ### 개발 일지
+- [My Archive](https://github.com/CODEMCD/TIL/blob/master/TIP/Archive.md)
 - [개발 일지]()
 - [버그 리포팅]()
 
@@ -74,9 +74,10 @@
 
 
 ### SQL
-- [HackerRank - SQL](https://www.hackerrank.com/domains/sql)
+- [HackerRank](https://www.hackerrank.com/domains/sql)
     - [Basic Select](https://github.com/CODEMCD/TIL/blob/master/HackerRank/SQL/Basic%20Select.md)
     - [Basic Join](https://github.com/CODEMCD/TIL/blob/master/HackerRank/SQL/Basic%20Join.md)
+- [프로그래머스]()
 
 
 ### 구직활동

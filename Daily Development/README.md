@@ -2,6 +2,10 @@
 > 하루동안 개발 또는 코딩하면서 기록하고 싶은 부분
 
 
+## 2020-02-07 개발 일지
+- [IntelliJ Junit5 DisplayName 결과가 출력되지 않을 때](https://medium.com/@sorravitbunjongpean/fix-junit5-display-name-did-not-show-in-run-tab-intellij-a00c94f39679)
+
+
 ## 2020-02-05 개발 일지
 - [Java + Gradle 프로젝트 생성](https://jojoldu.tistory.com/138)
 - [JUnit5 + Gradle 의존성 추가](https://itbellstone.tistory.com/106)
