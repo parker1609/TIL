@@ -50,8 +50,8 @@
 
 ### 개발 일지
 - [My Archive](https://github.com/CODEMCD/TIL/blob/master/TIP/Archive.md)
-- [개발 일지]()
-- [버그 리포팅]()
+- [개발 일지](https://github.com/CODEMCD/TIL/blob/master/Daily%20Development/README.md)
+- [버그 리포팅](https://github.com/CODEMCD/TIL/blob/master/Daily%20Development/Bug%20Fixed/README.md)
 
 
 ### PS 
@@ -77,7 +77,7 @@
 - [HackerRank](https://www.hackerrank.com/domains/sql)
     - [Basic Select](https://github.com/CODEMCD/TIL/blob/master/HackerRank/SQL/Basic%20Select.md)
     - [Basic Join](https://github.com/CODEMCD/TIL/blob/master/HackerRank/SQL/Basic%20Join.md)
-- [프로그래머스]()
+- [프로그래머스](https://github.com/CODEMCD/TIL/blob/master/Programmers/SQL/README.md)
 
 
 ### 구직활동
