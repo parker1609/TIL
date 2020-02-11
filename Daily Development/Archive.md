@@ -1,6 +1,10 @@
 # My Archive
 >개발 관련 컨텐츠를 읽었을 때 공유하고 싶거나 지속적으로 이해하고 읽어야 할 글들을 모아놉니다.
 
+### 2020-02-11
+- [객체지향 개발 5대 원리: SOLID](http://www.nextree.co.kr/p6960/)
+- [초보 개발자에게 권장하는 객체지향 모델링 공부 방법](https://okky.kr/article/358197)
+
 ### 2020-02-08
 - [MySQL 중복 개수 확인](https://zetawiki.com/wiki/DB_%EC%A4%91%EB%B3%B5_%EA%B0%9C%EC%88%98_%ED%99%95%EC%9D%B8)
 - [TCP IP & IO Model[슬라이드]](https://www.slideshare.net/namhyeonuk90/tcp-ip-io-model)

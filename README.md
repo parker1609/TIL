@@ -43,7 +43,7 @@
     - [다양한 Git Tip[번역]](https://github.com/mingrammer/git-tips)
 - 취업 관련
     - [주니어 개발자 채용 정보](https://github.com/jojoldu/junior-recruit-scheduler)
-    - [신입을 위한 코딩 인턴뷰](https://github.com/JaeYeopHan/Interview_Question_for_Beginner)
+    - [Tech Interview For Beginner](https://github.com/JaeYeopHan/Interview_Question_for_Beginner)
 - 오픈소스
     - [다양한 프론트엔드 및 백엔드 언어 예제 코드](https://github.com/gothinkster/realworld)
 
