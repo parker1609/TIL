@@ -51,7 +51,6 @@
 ### 개발 일지
 - [My Archive](https://github.com/CODEMCD/TIL/blob/master/TIP/Archive.md)
 - [개발 일지](https://github.com/CODEMCD/TIL/blob/master/Daily%20Development/README.md)
-- [버그 리포팅](https://github.com/CODEMCD/TIL/blob/master/Daily%20Development/Bug%20Fixed/README.md)
 
 
 ### PS 
