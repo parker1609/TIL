@@ -1,6 +1,15 @@
 # 개발 일지
 > 하루동안 개발 또는 코딩하면서 기록하고 싶은 부분
 
+## 2020-02-18
+### My Archive 만들기
+Link와 Tag JPA 관계를 Link에서 OneToMany 단방향(JoinColumn)으로 구현했는데, Tag를 이용한 조회 구현해보면서 좀 더 관계 설정에 대해 생각해봐야겠다. OneToMany에서는 양방향이 가장 최선의 방법이라고 하지만 Tag가 워낙 변경 가능성이 거의 없고, 단지 Link에서 가지고 있는 데이터에 불과하다는 생각에서 코드를 구현하는데 굳이 연관관계를 주어야 할까라는 생각을 했다. JoinColumn을 사용하면 중간에 테이블은 만들어지지 않지만, 관계를 생성할 때 Link가 가진 Tag 개수만큼 UPDATE문이 발생한다. 하지만 아직 이부분은 감수할 수 있다고 생각하지만, 데이터베이스에서 어떻게 저장되는지 모르겠다. 하나의 Tags는 여러 Link가 가질 수 있는데, 현재 Tag 테이블은 (id, name, link_id)이다. 따라서 하나의 Tag는 하나의 Link만을 가지는데, 아직 이 부분은 데이터베이스를 확인해봐야겠다. Tag로의 조회는 데이터베이스가 아닌 자바 코드에서 Link가 Tag의 정보를 다 가지고 있으므로 할 수 있지만 뭔가 찜찜하다.
+- [JPA 일대다 단방향 매핑 잘못 사용하면 벌어지는 일](https://homoefficio.github.io/2019/04/28/JPA-%EC%9D%BC%EB%8C%80%EB%8B%A4-%EB%8B%A8%EB%B0%A9%ED%96%A5-%EB%A7%A4%ED%95%91-%EC%9E%98%EB%AA%BB-%EC%82%AC%EC%9A%A9%ED%95%98%EB%A9%B4-%EB%B2%8C%EC%96%B4%EC%A7%80%EB%8A%94-%EC%9D%BC/)
+- <https://vladmihalcea.com/the-best-way-to-map-a-onetomany-association-with-jpa-and-hibernate/>
+
+DTO를 만들 때 Controller의 `@RequestBody`로 매핑하려면 리플렉션을 쓰기 때문에 기본 생성자가 필요하다고 알고 있다. 그런데 없어도 동작긴한다.(아직 이유는 모름) 그런데 테스트에서 `expectBody()`에서 해당 DTO 클래스를 매핑해서 가져올 때 내부가 리스트를 가지고 있는 경우라면 바로 기본 생성자가 없다는 오류가 뜬다. 물론 기본적으로 위처럼 리플랙션때문에 기본생성자를 만들어놓으면 문제가 없지만, 이전에 기본생성자가 없어도 동작해서 만들지 않았더니 문제가 발생했다.
+
+
 ## 2020-02-17
 ### Slug 란?
 슬러그(Slug)란?
