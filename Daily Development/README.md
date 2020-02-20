@@ -1,6 +1,34 @@
 # 개발 일지
 > 하루동안 개발 또는 코딩하면서 기록하고 싶은 부분
 
+## 2020-02-20
+### 스프링부터와 AWS로 혼자 구현하는 웹 서비스 책 따라하기
+#### Lombok 사용시 주의 사항
+`@RequiredArgsConstructor`를 사용해 생성자 주입으로 의존성을 주입 받기 위해선 `private final`로 변수를 선언해야 한다.
+
+#### Gradle 버전 변경 오류
+
+```
+$ gradlew wrapper --gradle-version 4.10.2
+zsh: command not found: gradlew
+```
+
+gradle 버전을 변경하려고 위 명령어를 수행하니 자꾸 명령어를 찾을 수 없다는 메시지가 발생했다. `brew search gradle`을 해봤을 때 gradle이 있길래 설치가 되어있는 줄 알았는데 아니었나보다.
+
+```
+$ brew install gradle
+```
+
+위 명령어를 수행해서 gradle을 설치해주고 다시 `gradlew wrapper ...`을 해보니 똑같은 메시지가 떴다.
+
+```
+$ gradle wrapper --gradle-version 4.10.2
+```
+
+위 명령어를 수행하니 정상적으로 버전이 변경되었다.
+- `gradle/wrapper/gradle-wrapper.properties` 파일의 버전을 확인하면 된다.
+
+
 ## 2020-02-18
 ### My Archive 만들기
 Link와 Tag JPA 관계를 Link에서 OneToMany 단방향(JoinColumn)으로 구현했는데, Tag를 이용한 조회 구현해보면서 좀 더 관계 설정에 대해 생각해봐야겠다. OneToMany에서는 양방향이 가장 최선의 방법이라고 하지만 Tag가 워낙 변경 가능성이 거의 없고, 단지 Link에서 가지고 있는 데이터에 불과하다는 생각에서 코드를 구현하는데 굳이 연관관계를 주어야 할까라는 생각을 했다. JoinColumn을 사용하면 중간에 테이블은 만들어지지 않지만, 관계를 생성할 때 Link가 가진 Tag 개수만큼 UPDATE문이 발생한다. 하지만 아직 이부분은 감수할 수 있다고 생각하지만, 데이터베이스에서 어떻게 저장되는지 모르겠다. 하나의 Tags는 여러 Link가 가질 수 있는데, 현재 Tag 테이블은 (id, name, link_id)이다. 따라서 하나의 Tag는 하나의 Link만을 가지는데, 아직 이 부분은 데이터베이스를 확인해봐야겠다. Tag로의 조회는 데이터베이스가 아닌 자바 코드에서 Link가 Tag의 정보를 다 가지고 있으므로 할 수 있지만 뭔가 찜찜하다.
