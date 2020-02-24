@@ -74,6 +74,7 @@
 
 
 ### SQL
+- [MySQL 쿼리 작성법]()
 - [HackerRank](https://www.hackerrank.com/domains/sql)
     - [Basic Select](https://github.com/CODEMCD/TIL/blob/master/HackerRank/SQL/Basic%20Select.md)
     - [Basic Join](https://github.com/CODEMCD/TIL/blob/master/HackerRank/SQL/Basic%20Join.md)

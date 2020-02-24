@@ -1,6 +1,15 @@
 # 개발 일지
 > 하루동안 개발 또는 코딩하면서 기록하고 싶은 부분
 
+## 2020-02-24
+### Npm Run
+`npm run serve` 다른 포트로 수행하고 싶을 때 vue cli 3.x 버전이 깔려있다면 간단하게
+
+`npm run serve -- --port 9000` 명령어를 사용하면 된다.
+
+- [https://stackoverflow.com/questions/47219819/how-to-change-port-number-in-vue-cli-project](https://stackoverflow.com/questions/47219819/how-to-change-port-number-in-vue-cli-project)
+    - 두 번째 답변 참고
+
 ## 2020-02-20
 ### 스프링부터와 AWS로 혼자 구현하는 웹 서비스 책 따라하기
 #### Lombok 사용시 주의 사항
