@@ -28,7 +28,7 @@
 
 ## :book: 분류
 - [읽을거리](#읽을거리)
-- [개발 일지](#개발-일지)
+- [개발](#개발)
 - [PS](#PS)
 - [SQL](#SQL)
 - [구직활동](#구직활동)
@@ -48,9 +48,11 @@
     - [다양한 프론트엔드 및 백엔드 언어 예제 코드](https://github.com/gothinkster/realworld)
 
 
-### 개발 일지
+### 개발
 - [My Archive](https://github.com/CODEMCD/TIL/blob/master/TIP/Archive.md)
 - [개발 일지](https://github.com/CODEMCD/TIL/blob/master/Daily%20Development/README.md)
+- [GIT 명령어](https://github.com/CODEMCD/TIL/blob/master/GIT/GIT%20%EB%AA%85%EB%A0%B9%EC%96%B4.md)
+- [MySQL 쿼리 작성법](https://github.com/CODEMCD/TIL/blob/master/%EB%8F%84%EC%84%9C/Real%20MySQL/Ch07%20%EC%BF%BC%EB%A6%AC%20%EC%9E%91%EC%84%B1.md)
 
 
 ### PS 
@@ -70,11 +72,10 @@
     - [Maximum Subarray](https://github.com/CODEMCD/TIL/blob/master/LeetCode/Maximum%20Subarray.md)(Array, Divide and Conquer, Dynamic Programming)
     - [Symmetric Tree](https://github.com/CODEMCD/TIL/blob/master/LeetCode/Symmetric%20Tree.md)(Tree, Depth-first Search, Breadth-first Search)
     - [Min Stack](https://github.com/CODEMCD/TIL/blob/master/LeetCode/Min%20Stack.md)(Stack, Design)
-    - [Path Sum 3]()(Tree)
+    - [Path Sum 3](https://github.com/CODEMCD/TIL/blob/master/LeetCode/Path%20Sum3.md)(Tree)
 
 
 ### SQL
-- [MySQL 쿼리 작성법]()
 - [HackerRank](https://www.hackerrank.com/domains/sql)
     - [Basic Select](https://github.com/CODEMCD/TIL/blob/master/HackerRank/SQL/Basic%20Select.md)
     - [Basic Join](https://github.com/CODEMCD/TIL/blob/master/HackerRank/SQL/Basic%20Join.md)

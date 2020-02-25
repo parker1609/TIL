@@ -1,5 +1,13 @@
 # GIT 명령어
 
+## .gitignore가 작동하지 않을때 대처법
+
+```
+git rm -r --cached .
+git add .
+git commit -m "fixed untracked files"
+```
+
 ## Github Pull Requests 충돌
 - `git remote add upstream` -> `git fetch upstream 자신의 github_id` -> `git reset --hard upstream/자신의 github_id`
 - `git push --force [remote repository]`

@@ -1,6 +1,14 @@
 # 개발 일지
 > 하루동안 개발 또는 코딩하면서 기록하고 싶은 부분
 
+## 2020-02-25
+### CORS
+- <https://velog.io/@wlsdud2194/cors>
+- 스프링 부트에서 CORS 해결하기
+    - <https://siyoon210.tistory.com/154>
+    - <https://stackoverflow.com/questions/36809528/spring-boot-cors-filter-cors-preflight-channel-did-not-succeed>
+
+
 ## 2020-02-24
 ### Npm Run
 `npm run serve` 다른 포트로 수행하고 싶을 때 vue cli 3.x 버전이 깔려있다면 간단하게
