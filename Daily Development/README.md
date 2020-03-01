@@ -1,6 +1,31 @@
 # 개발 일지
 > 하루동안 개발 또는 코딩하면서 기록하고 싶은 부분
 
+## 2020-02-27
+### My Archive 데이터
+```json
+{
+	"uri": "https://velog.io/@codemcd/Sync-VS-Async-Blocking-VS-Non-Blocking-sak6d01fhx",
+	"title": "Sync VS Async, Blocking VS Non-Blocking",
+	"tags": [ "Sync", "Async", "Blocking", "Non-Blocking" ],
+	"type": "글"
+}
+
+{
+	"uri": "https://velog.io/@codemcd/Spring-Boot-JPA-IntelliJ%EB%A1%9C-%EC%9B%B9-%EA%B5%AC%ED%98%84%ED%95%98%EA%B8%B0-1-xdk56qmpre",
+	"title": "[Spring Boot + JPA로 웹 애플리케이션 구현] 1. 프로젝트 생성",
+	"tags": [ "Java", "JPA", "Spring Boot" ],
+	"type": "글"
+}
+
+{
+	"uri": "https://velog.io/@codemcd/Spring-Boot-JPA%EB%A1%9C-%EC%9B%B9-%EC%95%A0%ED%94%8C%EB%A6%AC%EC%BC%80%EC%9D%B4%EC%85%98-%EA%B5%AC%ED%98%84-1.-ATDD%EB%A1%9C-%EA%B2%8C%EC%8B%9C%EA%B8%80-CRUD-%EA%B5%AC%ED%98%84%ED%95%98%EA%B8%B0-93k5hn8dh3",
+	"title": "[Spring Boot + JPA로 웹 애플리케이션 구현] 2. ATDD로 게시글 CRUD 구현하기",
+	"tags": [ "Java", "JPA", "Spring Boot" ],
+	"type": "글"
+}
+```
+
 ## 2020-02-25
 ### CORS
 - <https://velog.io/@wlsdud2194/cors>
