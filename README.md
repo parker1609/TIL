@@ -73,13 +73,17 @@
     - [Symmetric Tree](https://github.com/CODEMCD/TIL/blob/master/LeetCode/Symmetric%20Tree.md)(Tree, Depth-first Search, Breadth-first Search)
     - [Min Stack](https://github.com/CODEMCD/TIL/blob/master/LeetCode/Min%20Stack.md)(Stack, Design)
     - [Path Sum 3](https://github.com/CODEMCD/TIL/blob/master/LeetCode/Path%20Sum3.md)(Tree)
+    - [Linked List Cycle]()(Linked List, Two Points)
+    - [Linked List Cycle II]()(Linked List, Two Points)
+    - [234. Palindrome Linked List]()(Linked List, Two Points)
+    - [160. Intersection of Two Linked Lists]()(Linked List)
 
 
 ### SQL
 - [HackerRank](https://www.hackerrank.com/domains/sql)
     - [Basic Select](https://github.com/CODEMCD/TIL/blob/master/HackerRank/SQL/Basic%20Select.md)
     - [Basic Join](https://github.com/CODEMCD/TIL/blob/master/HackerRank/SQL/Basic%20Join.md)
-- [프로그래머스](https://github.com/CODEMCD/TIL/blob/master/Programmers/SQL/README.md)
+- [프로그래머스](https://github.com/CODEMCD/TIL/blob/master/Programmers/README.md)
 
 
 ### 구직활동
