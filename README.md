@@ -14,7 +14,7 @@
     - 개발 시리즈
     - 깊게 생각해보고 정리한 것
     - 설치 방법, 환경 설정 등
-- 개인 위키(NOTION)
+- 개인 위키
     - 개발 관련 개념 정리
     - 내가 보기 좋도록 만들기
 
@@ -56,6 +56,9 @@
 
 
 ### PS 
+- [LeetCode - Top Interview Questions](https://leetcode.com/problemset/top-interview-questions/)
+    - [344. Reverse String]()(Two Pointers, String)
+    - [412. Fizz Buzz]()
 - [LeetCode -  Top 100 Liked Questions](https://leetcode.com/problemset/top-100-liked-questions/)
     - [Two Sum](https://github.com/CODEMCD/TIL/blob/master/LeetCode/TwoSum.md)(Array, Hash Table)
     - [Counting Bits](https://github.com/CODEMCD/TIL/blob/master/LeetCode/Counting%20Bits.md)(Dynamic Programming, Bit Manipulation)
@@ -73,10 +76,10 @@
     - [Symmetric Tree](https://github.com/CODEMCD/TIL/blob/master/LeetCode/Symmetric%20Tree.md)(Tree, Depth-first Search, Breadth-first Search)
     - [Min Stack](https://github.com/CODEMCD/TIL/blob/master/LeetCode/Min%20Stack.md)(Stack, Design)
     - [Path Sum 3](https://github.com/CODEMCD/TIL/blob/master/LeetCode/Path%20Sum3.md)(Tree)
-    - [Linked List Cycle]()(Linked List, Two Points)
-    - [Linked List Cycle II]()(Linked List, Two Points)
-    - [234. Palindrome Linked List]()(Linked List, Two Points)
-    - [160. Intersection of Two Linked Lists]()(Linked List)
+    - [Linked List Cycle](https://github.com/CODEMCD/TIL/blob/master/LeetCode/Linked%20List%20Cycle.md)(Linked List, Two Points)
+    - [Linked List Cycle II](https://github.com/CODEMCD/TIL/blob/master/LeetCode/Linked%20List%20Cycle%20II.md)(Linked List, Two Points)
+    - [234. Palindrome Linked List](https://github.com/CODEMCD/TIL/blob/master/LeetCode/Palindrome%20Linked%20List.md)(Linked List, Two Points)
+    - [160. Intersection of Two Linked Lists](https://github.com/CODEMCD/TIL/blob/master/LeetCode/Intersection%20of%20Two%20Linked%20Lists.md)(Linked List)
 
 
 ### SQL

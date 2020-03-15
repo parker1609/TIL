@@ -2,6 +2,9 @@
 > 하루동안 개발 또는 코딩하면서 기록하고 싶은 부분
 
 ## 2020-02-27
+### My Archive
+- [개발 일지](https://www.notion.so/5936d5d4c1774debbe3029f9eab895a0?v=b8b15b30e1664e1da9f6e19bd3d40d74)
+
 ### My Archive 데이터
 ```json
 {
