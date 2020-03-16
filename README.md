@@ -55,18 +55,22 @@
 - [MySQL 쿼리 작성법](https://github.com/CODEMCD/TIL/blob/master/%EB%8F%84%EC%84%9C/Real%20MySQL/Ch07%20%EC%BF%BC%EB%A6%AC%20%EC%9E%91%EC%84%B1.md)
 
 
-### PS 
+### PS
+- [프로그래머스]
+    - [[2020카카오공채] 문자열 압축]()
+    
 - [LeetCode - Top Interview Questions](https://leetcode.com/problemset/top-interview-questions/)
-    - [344. Reverse String]()(Two Pointers, String)
-    - [412. Fizz Buzz]()
+    - [344. Reverse String](https://github.com/CODEMCD/TIL/blob/master/LeetCode/344.%20Reverse%20String.md)(Two Pointers, String)
+    - [104. Merge Two Binary Trees](https://github.com/CODEMCD/TIL/blob/master/LeetCode/Merge%20Two%20Binary%20Trees.md)(Tree)
+    - [412. Fizz Buzz](https://github.com/CODEMCD/TIL/blob/master/LeetCode/412.%20Fizz%20Buzz.md)
+    - [206. Reverse Linked List](https://github.com/CODEMCD/TIL/blob/master/LeetCode/Reverse%20Linked%20List.md)(Linked List)
+
 - [LeetCode -  Top 100 Liked Questions](https://leetcode.com/problemset/top-100-liked-questions/)
     - [Two Sum](https://github.com/CODEMCD/TIL/blob/master/LeetCode/TwoSum.md)(Array, Hash Table)
     - [Counting Bits](https://github.com/CODEMCD/TIL/blob/master/LeetCode/Counting%20Bits.md)(Dynamic Programming, Bit Manipulation)
-    - [Merge Two Binary Trees](https://github.com/CODEMCD/TIL/blob/master/LeetCode/Merge%20Two%20Binary%20Trees.md)(Tree)
     - [Maximum Depth of Binary Tree](https://github.com/CODEMCD/TIL/blob/master/LeetCode/Maximum%20Depth%20of%20Binary%20Tree.md)(Tree, Depth-first Search)
     - [Single Number](https://github.com/CODEMCD/TIL/blob/master/LeetCode/Single%20Number.md)(Hash Table, Bit Manipulation)
     - [Invert Binary Tree](https://github.com/CODEMCD/TIL/blob/master/LeetCode/Invert%20Binary%20Tree.md)(Tree)
-    - [Reverse Linked List](https://github.com/CODEMCD/TIL/blob/master/LeetCode/Reverse%20Linked%20List.md)(Linked List)
     - [Move Zeroes](https://github.com/CODEMCD/TIL/blob/master/LeetCode/Move%20Zeroes.md)(Array, Two Pointers)
     - [Majority Element](https://github.com/CODEMCD/TIL/blob/master/LeetCode/Majority%20Element.md)(Array, Divided ans Conquer, Bit Manipulation)
     - [Find All Numbers Disappeared in an Array](https://github.com/CODEMCD/TIL/blob/master/LeetCode/448.md)(Array)

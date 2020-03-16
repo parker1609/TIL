@@ -1,4 +1,4 @@
-# Reverse Linked List
+# 206. Reverse Linked List
 - [문제 링크](https://leetcode.com/problems/reverse-linked-list/)
 
 ## 문제풀이
@@ -30,6 +30,79 @@ public:
         }
 
         return ans;
+    }
+};
+```
+
+- 새로운 노드 생성하지 않고 구현하기 (반복문)
+
+```cpp
+/**
+ * Definition for singly-linked list.
+ * struct ListNode {
+ *     int val;
+ *     ListNode *next;
+ *     ListNode(int x) : val(x), next(NULL) {}
+ * };
+ */
+class Solution {
+public:
+    ListNode* reverseList(ListNode* head) {
+        ListNode* reversed = NULL;
+        
+        while (head != NULL) {
+            ListNode* next = head->next;
+            head->next = NULL;
+            
+            head->next = reversed;
+            reversed = head;
+            
+            head = next;
+        }
+        
+        return reversed;
+    }
+};
+```
+
+-- 새로운 노드 생성하지 않고 구현하기 (재귀)
+
+```cpp
+/**
+ * Definition for singly-linked list.
+ * struct ListNode {
+ *     int val;
+ *     ListNode *next;
+ *     ListNode(int x) : val(x), next(NULL) {}
+ * };
+ */
+class Solution {
+public:
+    ListNode* reverseList(ListNode* head) {
+        ListNode* reversedStart = NULL;
+        ListNode* reversedEnd = NULL;
+        reverseRecursively(head, &reversedStart, &reversedEnd);
+        
+        return reversedStart;
+    }
+    
+private:
+    void reverseRecursively(ListNode* head, ListNode** start, ListNode** end) {
+        if (head == NULL) {
+            return;
+        }
+        
+        reverseRecursively(head->next, start, end);
+        
+        if ((*start) == NULL) {
+            *start = head;
+            *end = head;
+        }
+        else {
+            head->next = NULL;
+            (*end)->next = head;
+            (*end) = (*end)->next;
+        }
     }
 };
 ```

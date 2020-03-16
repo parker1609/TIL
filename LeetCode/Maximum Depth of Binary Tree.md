@@ -1,14 +1,11 @@
-# Maximum Depth of Binary Tree
+# 104. Maximum Depth of Binary Tree
 - [문제 링크](https://leetcode.com/problems/maximum-depth-of-binary-tree/)
 
 
 ## 문제풀이
 - 재귀함수를 이용하여 가장 깊은 높이를 계산한다.
 
-
-## 풀이코드
-
-```c++
+```cpp
 /**
  * Definition for a binary tree node.
  * struct TreeNode {
@@ -39,7 +36,7 @@ private:
 };
 ```
 
-```c++
+```cpp
 /**
  * Definition for a binary tree node.
  * struct TreeNode {
@@ -74,7 +71,7 @@ private:
 };
 ```
 
-```c++
+```cpp
 /**
  * Definition for a binary tree node.
  * struct TreeNode {
@@ -106,7 +103,7 @@ private:
 };
 ```
 
-```c++
+```cpp
 /**
  * Definition for a binary tree node.
  * struct TreeNode {
