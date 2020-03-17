@@ -56,14 +56,15 @@
 
 
 ### PS
-- [프로그래머스]
-    - [[2020카카오공채] 문자열 압축]()
-    
+- [프로그래머스](https://programmers.co.kr/learn/challenges)
+    - [[2020카카오공채] 문자열 압축](https://github.com/CODEMCD/TIL/blob/master/Programmers/PS/%5B2020%EC%B9%B4%EC%B9%B4%EC%98%A4%EA%B3%B5%EC%B1%84%5D%20%EB%AC%B8%EC%9E%90%EC%97%B4%20%EC%95%95%EC%B6%95.md)
+
 - [LeetCode - Top Interview Questions](https://leetcode.com/problemset/top-interview-questions/)
     - [344. Reverse String](https://github.com/CODEMCD/TIL/blob/master/LeetCode/344.%20Reverse%20String.md)(Two Pointers, String)
     - [104. Merge Two Binary Trees](https://github.com/CODEMCD/TIL/blob/master/LeetCode/Merge%20Two%20Binary%20Trees.md)(Tree)
     - [412. Fizz Buzz](https://github.com/CODEMCD/TIL/blob/master/LeetCode/412.%20Fizz%20Buzz.md)
     - [206. Reverse Linked List](https://github.com/CODEMCD/TIL/blob/master/LeetCode/Reverse%20Linked%20List.md)(Linked List)
+    - [7. Reverse Integer]()(Math)
 
 - [LeetCode -  Top 100 Liked Questions](https://leetcode.com/problemset/top-100-liked-questions/)
     - [Two Sum](https://github.com/CODEMCD/TIL/blob/master/LeetCode/TwoSum.md)(Array, Hash Table)
@@ -90,7 +91,7 @@
 - [HackerRank](https://www.hackerrank.com/domains/sql)
     - [Basic Select](https://github.com/CODEMCD/TIL/blob/master/HackerRank/SQL/Basic%20Select.md)
     - [Basic Join](https://github.com/CODEMCD/TIL/blob/master/HackerRank/SQL/Basic%20Join.md)
-- [프로그래머스](https://github.com/CODEMCD/TIL/blob/master/Programmers/README.md)
+- [프로그래머스](https://github.com/CODEMCD/TIL/blob/master/Programmers/SQL/README.md)
 
 
 ### 구직활동
