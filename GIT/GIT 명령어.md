@@ -1,11 +1,13 @@
 # GIT 명령어
 
 ## .gitignore가 작동하지 않을때 대처법
+- 이미 Github에 올라간 파일을 gitignore 적용할 때도 같은 방법으로 가능하다.
+  - `.gitingnore` 파일에 git에 올리지 않을 파일을 추가한 후 아래의 명령어를 수행한 후, push하면 된다.
 
 ```
 git rm -r --cached .
 git add .
-git commit -m "fixed untracked files"
+git commit -m "fix: Untracked files"
 ```
 
 ## Github Pull Requests 충돌
