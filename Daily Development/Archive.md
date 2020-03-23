@@ -1,6 +1,10 @@
 # My Archive
 >개발 관련 컨텐츠를 읽었을 때 공유하고 싶거나 지속적으로 이해하고 읽어야 할 글들을 모아놉니다.
 
+- [애자일 이야기 - 김창준님 블로그](http://agile.egloos.com/)
+    - [프로그래밍 언어 배우기의 달인](http://agile.egloos.com/5664879)
+    - [실수는 예방하는 것이 아니라 관리하는 것이다.](http://agile.egloos.com/5774862)
+
 ### 2020-02-17
 - [JPA 선호하는 패턴](https://cheese10yun.github.io/jpa-preference/)
 - [ATDD를 활용한 REST API Server 개발](https://github.com/msbaek/atdd-example)
