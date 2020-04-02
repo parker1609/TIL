@@ -58,15 +58,17 @@
 ### PS
 - [프로그래머스](https://programmers.co.kr/learn/challenges)
     - [[2020카카오공채] 문자열 압축](https://github.com/CODEMCD/TIL/blob/master/Programmers/PS/%5B2020%EC%B9%B4%EC%B9%B4%EC%98%A4%EA%B3%B5%EC%B1%84%5D%20%EB%AC%B8%EC%9E%90%EC%97%B4%20%EC%95%95%EC%B6%95.md)
-    - [[2020카카오공채] 괄호 변환]()
+    - [[2020카카오공채] 괄호 변환](https://github.com/CODEMCD/TIL/blob/master/Programmers/PS/%5B2020%EC%B9%B4%EC%B9%B4%EC%98%A4%EA%B3%B5%EC%B1%84%5D%20%EA%B4%84%ED%98%B8%20%EB%B3%80%ED%99%98.md)
 
 - [LeetCode - Top Interview Questions](https://leetcode.com/problemset/top-interview-questions/)
     - [344. Reverse String](https://github.com/CODEMCD/TIL/blob/master/LeetCode/344.%20Reverse%20String.md)(Two Pointers, String)
     - [104. Merge Two Binary Trees](https://github.com/CODEMCD/TIL/blob/master/LeetCode/Merge%20Two%20Binary%20Trees.md)(Tree)
     - [412. Fizz Buzz](https://github.com/CODEMCD/TIL/blob/master/LeetCode/412.%20Fizz%20Buzz.md)
     - [206. Reverse Linked List](https://github.com/CODEMCD/TIL/blob/master/LeetCode/Reverse%20Linked%20List.md)(Linked List)
-    - [7. Reverse Integer]()(Math)
-    - [13. Roman to Integer]()(Math, String)
+    - [7. Reverse Integer](https://github.com/CODEMCD/TIL/blob/master/LeetCode/7.%20Reverse%20Integer.md)(Math)
+    - [13. Roman to Integer](https://github.com/CODEMCD/TIL/blob/master/LeetCode/13.%20Roman%20to%20Integer.md)(Math, String)
+    - [14. Longest Common Prefix]()(String)
+    - [20. Valid Parentheses]()(String, Stack)
 
 - [LeetCode -  Top 100 Liked Questions](https://leetcode.com/problemset/top-100-liked-questions/)
     - [Two Sum](https://github.com/CODEMCD/TIL/blob/master/LeetCode/TwoSum.md)(Array, Hash Table)
