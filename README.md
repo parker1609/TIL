@@ -52,16 +52,18 @@
 
 
 ### PS
-- [프로그래머스 코딩 문제 바로가기](https://programmers.co.kr/learn/challenges)
-    - [내 풀이 목록](https://github.com/CODEMCD/TIL/tree/master/Programmers/PS)
+#### 프로그래머스
+- [프로그래머스 모든 문제](https://programmers.co.kr/learn/challenges)
+- [내 풀이 목록](https://github.com/CODEMCD/TIL/tree/master/Programmers/PS)
 > - [2020카카오공채] 문자열 압축
 > - [2020카카오공채] 괄호 변환
 > - [2020카카오공채] 자물쇠와 열쇠
 > - [2020카카오공채] 가사 검색
 
-- [LeetCode - Top Interview Questions 바로가기](https://leetcode.com/problemset/top-interview-questions/)
-- [LeetCode - Top 100 Liked Questions 바로가기](https://leetcode.com/problemset/top-100-liked-questions/)
-    - [내 풀이 목록](https://github.com/CODEMCD/TIL/tree/master/LeetCode)
+#### LeetCode
+- [LeetCode - Top Interview Questions](https://leetcode.com/problemset/top-interview-questions/)
+- [LeetCode - Top 100 Liked Questions](https://leetcode.com/problemset/top-100-liked-questions/)
+- [내 풀이 목록](https://github.com/CODEMCD/TIL/tree/master/LeetCode)
 
 ```
 > 1. Two Sum
@@ -70,6 +72,7 @@
 > 14. Longest Common Prefix
 > 20. Valid Parentheses
 > 21. Merge Two Sorted Lists
+> 28. Implement strStr()
 > 53. Maximum Subarray
 > 70. Climbing Stairs
 > 101. Symmetric Tree
@@ -93,6 +96,10 @@
 > 543. Diameter of Binary Tree
 > 617. Merge Two Binary Trees
 ```
+
+#### 백준
+- [내 풀이 목록](https://www.acmicpc.net/user/CODEMCD)
+- 휴식중...
 
 ### SQL
 - [HackerRank](https://www.hackerrank.com/domains/sql)
