@@ -54,42 +54,42 @@
 ### PS
 - [프로그래머스 코딩 문제 바로가기](https://programmers.co.kr/learn/challenges)
     - [내 풀이 목록](https://github.com/CODEMCD/TIL/tree/master/Programmers/PS)
-        - [2020카카오공채] 문자열 압축
-        - [2020카카오공채] 괄호 변환
-        - [2020카카오공채] 자물쇠와 열쇠
-        - [2020카카오공채] 가사 검색
+> - [2020카카오공채] 문자열 압축
+> - [2020카카오공채] 괄호 변환
+> - [2020카카오공채] 자물쇠와 열쇠
+> - [2020카카오공채] 가사 검색
 
 - [LeetCode - Top Interview Questions 바로가기](https://leetcode.com/problemset/top-interview-questions/)
-- [LeetCode -  Top 100 Liked Questions 바로가기](https://leetcode.com/problemset/top-100-liked-questions/)
-    - [내 풀이 목록](https://github.com/CODEMCD/TIL/tree/master/LeetCode)
-        - 1. Two Sum
-        - 7. Reverse Integer
-        - 13. Roman to Integer
-        - 14. Longest Common Prefix
-        - 20. Valid Parentheses
-        - 21. Merge Two Sorted Lists
-        - 53. Maximum Subarray
-        - 70. Climbing Stairs
-        - 101. Symmetric Tree
-        - 104. Maximum Depth of Binary Tree
-        - 121. Best Time to Buy and Sell Stock
-        - 136. Single Number
-        - 141. Linked List Cycle
-        - 142. Linked List Cycle II
-        - 155. Min Stack
-        - 160. Intersection of Two Linked Lists
-        - 169. Majority Element
-        - 206. Reverse Linked List
-        - 226. Invert Binary Tree
-        - 234. Palindrome Linked List
-        - 283. Move Zeroes
-        - 338. Counting Bits
-        - 344. Reverse String
-        - 412. Fizz Buzz
-        - 437. Path Sum III
-        - 448. Find All Numbers Disappeared in an Array
-        - 543. Diameter of Binary Tree
-        - 617. Merge Two Binary Trees
+- [LeetCode - Top 100 Liked Questions 바로가기](https://leetcode.com/problemset/top-100-liked-questions/)
+    - [내 풀이 목록](https://github.com/CODEMCD/TIL/tree/master/LeetCode)
+> 1. Two Sum
+> 7. Reverse Integer
+> 13. Roman to Integer
+> 14. Longest Common Prefix
+> 20. Valid Parentheses
+> 21. Merge Two Sorted Lists
+> 53. Maximum Subarray
+> 70. Climbing Stairs
+> 101. Symmetric Tree
+> 104. Maximum Depth of Binary Tree
+> 121. Best Time to Buy and Sell Stock
+> 136. Single Number
+> 141. Linked List Cycle
+> 142. Linked List Cycle II
+> 155. Min Stack
+> 160. Intersection of Two Linked Lists
+> 169. Majority Element
+> 206. Reverse Linked List
+> 226. Invert Binary Tree
+> 234. Palindrome Linked List
+> 283. Move Zeroes
+> 338. Counting Bits
+> 344. Reverse String
+> 412. Fizz Buzz
+> 437. Path Sum III
+> 448. Find All Numbers Disappeared in an Array
+> 543. Diameter of Binary Tree
+> 617. Merge Two Binary Trees
 
 
 ### SQL
