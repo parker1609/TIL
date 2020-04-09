@@ -5,7 +5,7 @@
 
 
 ## :heavy_check_mark: 목표
-- **코드를 많이 구현해보고 깊게 고민해보자!**
+- **꾸준히, 깊게 생각하자.**
 - TIL
     - 오늘 공부한 알고리즘 문제, SQL 문제, 개발하면서 구현한 코드 및 그에 대한 생각
     - 좋았거나 다시 찾아볼 것 같거나 공유하고 싶은 글, 블로그
@@ -14,9 +14,6 @@
     - 개발 시리즈
     - 깊게 생각해보고 정리한 것
     - 설치 방법, 환경 설정 등
-- 개인 위키
-    - 개발 관련 개념 정리
-    - 내가 보기 좋도록 만들기
 
 
 ## :warning: 제약사항
@@ -50,45 +47,49 @@
 
 ### 개발
 - [My Archive](https://github.com/CODEMCD/TIL/blob/master/TIP/Archive.md)
-- [개발 일지](https://github.com/CODEMCD/TIL/blob/master/Daily%20Development/README.md)
 - [GIT 명령어](https://github.com/CODEMCD/TIL/blob/master/GIT/GIT%20%EB%AA%85%EB%A0%B9%EC%96%B4.md)
 - [MySQL 쿼리 작성법](https://github.com/CODEMCD/TIL/blob/master/%EB%8F%84%EC%84%9C/Real%20MySQL/Ch07%20%EC%BF%BC%EB%A6%AC%20%EC%9E%91%EC%84%B1.md)
 
 
 ### PS
-- [프로그래머스](https://programmers.co.kr/learn/challenges)
-    - [[2020카카오공채] 문자열 압축](https://github.com/CODEMCD/TIL/blob/master/Programmers/PS/%5B2020%EC%B9%B4%EC%B9%B4%EC%98%A4%EA%B3%B5%EC%B1%84%5D%20%EB%AC%B8%EC%9E%90%EC%97%B4%20%EC%95%95%EC%B6%95.md)
-    - [[2020카카오공채] 괄호 변환](https://github.com/CODEMCD/TIL/blob/master/Programmers/PS/%5B2020%EC%B9%B4%EC%B9%B4%EC%98%A4%EA%B3%B5%EC%B1%84%5D%20%EA%B4%84%ED%98%B8%20%EB%B3%80%ED%99%98.md)
+- [프로그래머스 코딩 문제 바로가기](https://programmers.co.kr/learn/challenges)
+    - [내 풀이 목록](https://github.com/CODEMCD/TIL/tree/master/Programmers/PS)
+        - [2020카카오공채] 문자열 압축
+        - [2020카카오공채] 괄호 변환
+        - [2020카카오공채] 자물쇠와 열쇠
+        - [2020카카오공채] 가사 검색
 
-- [LeetCode - Top Interview Questions](https://leetcode.com/problemset/top-interview-questions/)
-    - [344. Reverse String](https://github.com/CODEMCD/TIL/blob/master/LeetCode/344.%20Reverse%20String.md)(Two Pointers, String)
-    - [104. Merge Two Binary Trees](https://github.com/CODEMCD/TIL/blob/master/LeetCode/Merge%20Two%20Binary%20Trees.md)(Tree)
-    - [412. Fizz Buzz](https://github.com/CODEMCD/TIL/blob/master/LeetCode/412.%20Fizz%20Buzz.md)
-    - [206. Reverse Linked List](https://github.com/CODEMCD/TIL/blob/master/LeetCode/Reverse%20Linked%20List.md)(Linked List)
-    - [7. Reverse Integer](https://github.com/CODEMCD/TIL/blob/master/LeetCode/7.%20Reverse%20Integer.md)(Math)
-    - [13. Roman to Integer](https://github.com/CODEMCD/TIL/blob/master/LeetCode/13.%20Roman%20to%20Integer.md)(Math, String)
-    - [14. Longest Common Prefix]()(String)
-    - [20. Valid Parentheses]()(String, Stack)
-
-- [LeetCode -  Top 100 Liked Questions](https://leetcode.com/problemset/top-100-liked-questions/)
-    - [Two Sum](https://github.com/CODEMCD/TIL/blob/master/LeetCode/TwoSum.md)(Array, Hash Table)
-    - [Counting Bits](https://github.com/CODEMCD/TIL/blob/master/LeetCode/Counting%20Bits.md)(Dynamic Programming, Bit Manipulation)
-    - [Maximum Depth of Binary Tree](https://github.com/CODEMCD/TIL/blob/master/LeetCode/Maximum%20Depth%20of%20Binary%20Tree.md)(Tree, Depth-first Search)
-    - [Single Number](https://github.com/CODEMCD/TIL/blob/master/LeetCode/Single%20Number.md)(Hash Table, Bit Manipulation)
-    - [Invert Binary Tree](https://github.com/CODEMCD/TIL/blob/master/LeetCode/Invert%20Binary%20Tree.md)(Tree)
-    - [Move Zeroes](https://github.com/CODEMCD/TIL/blob/master/LeetCode/Move%20Zeroes.md)(Array, Two Pointers)
-    - [Majority Element](https://github.com/CODEMCD/TIL/blob/master/LeetCode/Majority%20Element.md)(Array, Divided ans Conquer, Bit Manipulation)
-    - [Find All Numbers Disappeared in an Array](https://github.com/CODEMCD/TIL/blob/master/LeetCode/448.md)(Array)
-    - [Merge Two Sorted Lists](https://github.com/CODEMCD/TIL/blob/master/LeetCode/21.md)(Linked List)
-    - [Best Time to Buy and Sell Stock](https://github.com/CODEMCD/TIL/blob/master/LeetCode/121.md)(Array, Dynamic Programming)
-    - [Maximum Subarray](https://github.com/CODEMCD/TIL/blob/master/LeetCode/Maximum%20Subarray.md)(Array, Divide and Conquer, Dynamic Programming)
-    - [Symmetric Tree](https://github.com/CODEMCD/TIL/blob/master/LeetCode/Symmetric%20Tree.md)(Tree, Depth-first Search, Breadth-first Search)
-    - [Min Stack](https://github.com/CODEMCD/TIL/blob/master/LeetCode/Min%20Stack.md)(Stack, Design)
-    - [Path Sum 3](https://github.com/CODEMCD/TIL/blob/master/LeetCode/Path%20Sum3.md)(Tree)
-    - [Linked List Cycle](https://github.com/CODEMCD/TIL/blob/master/LeetCode/Linked%20List%20Cycle.md)(Linked List, Two Points)
-    - [Linked List Cycle II](https://github.com/CODEMCD/TIL/blob/master/LeetCode/Linked%20List%20Cycle%20II.md)(Linked List, Two Points)
-    - [234. Palindrome Linked List](https://github.com/CODEMCD/TIL/blob/master/LeetCode/Palindrome%20Linked%20List.md)(Linked List, Two Points)
-    - [160. Intersection of Two Linked Lists](https://github.com/CODEMCD/TIL/blob/master/LeetCode/Intersection%20of%20Two%20Linked%20Lists.md)(Linked List)
+- [LeetCode - Top Interview Questions 바로가기](https://leetcode.com/problemset/top-interview-questions/)
+- [LeetCode -  Top 100 Liked Questions 바로가기](https://leetcode.com/problemset/top-100-liked-questions/)
+    - [내 풀이 목록](https://github.com/CODEMCD/TIL/tree/master/LeetCode)
+        - 1. Two Sum
+        - 7. Reverse Integer
+        - 13. Roman to Integer
+        - 14. Longest Common Prefix
+        - 20. Valid Parentheses
+        - 21. Merge Two Sorted Lists
+        - 53. Maximum Subarray
+        - 70. Climbing Stairs
+        - 101. Symmetric Tree
+        - 104. Maximum Depth of Binary Tree
+        - 121. Best Time to Buy and Sell Stock
+        - 136. Single Number
+        - 141. Linked List Cycle
+        - 142. Linked List Cycle II
+        - 155. Min Stack
+        - 160. Intersection of Two Linked Lists
+        - 169. Majority Element
+        - 206. Reverse Linked List
+        - 226. Invert Binary Tree
+        - 234. Palindrome Linked List
+        - 283. Move Zeroes
+        - 338. Counting Bits
+        - 344. Reverse String
+        - 412. Fizz Buzz
+        - 437. Path Sum III
+        - 448. Find All Numbers Disappeared in an Array
+        - 543. Diameter of Binary Tree
+        - 617. Merge Two Binary Trees
 
 
 ### SQL
