@@ -74,6 +74,8 @@
 > 21. Merge Two Sorted Lists
 > 28. Implement strStr()
 > 53. Maximum Subarray
+> 66. Plus One
+> 69. Sqrt(x)
 > 70. Climbing Stairs
 > 101. Symmetric Tree
 > 104. Maximum Depth of Binary Tree
