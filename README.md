@@ -59,6 +59,7 @@
 > - [2020카카오공채] 괄호 변환
 > - [2020카카오공채] 자물쇠와 열쇠
 > - [2020카카오공채] 가사 검색
+> - [2020카카오공채] 기둥과 보 설치
 
 #### LeetCode
 - [LeetCode - Top Interview Questions](https://leetcode.com/problemset/top-interview-questions/)
@@ -77,6 +78,7 @@
 > 66. Plus One
 > 69. Sqrt(x)
 > 70. Climbing Stairs
+> 88. Merge Sorted Array
 > 101. Symmetric Tree
 > 104. Maximum Depth of Binary Tree
 > 121. Best Time to Buy and Sell Stock
