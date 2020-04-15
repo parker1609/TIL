@@ -156,7 +156,7 @@ else {
 ```
 
 
-### HashMap - Reference
+### Reference
 - [Java8 Oracle Reference - HashMap](https://docs.oracle.com/javase/8/docs/api/java/util/HashMap.html)
 - [Java 8 HashMap 퍼포먼스 향상](https://johngrib.github.io/wiki/java8-performance-improvement-for-hashmap/)
 - [자바 HashMap을 효과적으로 사용하는 방법](http://tech.javacafe.io/2018/12/03/HashMap/)

@@ -83,6 +83,7 @@
 > 101. Symmetric Tree
 > 104. Maximum Depth of Binary Tree
 > 108. Convert Sorted Array to Binary Search Tree
+> 118. Pascal's Triangle
 > 121. Best Time to Buy and Sell Stock
 > 136. Single Number
 > 141. Linked List Cycle
