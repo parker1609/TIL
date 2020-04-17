@@ -61,6 +61,7 @@
 > - [2020카카오공채] 가사 검색
 > - [2020카카오공채] 기둥과 보 설치
 > - 오픈채팅방
+> - 소수 찾기
 
 #### LeetCode
 - [LeetCode - Top Interview Questions](https://leetcode.com/problemset/top-interview-questions/)
@@ -85,6 +86,7 @@
 > 108. Convert Sorted Array to Binary Search Tree
 > 118. Pascal's Triangle
 > 121. Best Time to Buy and Sell Stock
+> 122. Best Time to Buy and Sell Stock II
 > 136. Single Number
 > 141. Linked List Cycle
 > 142. Linked List Cycle II
