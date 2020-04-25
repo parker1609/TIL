@@ -1,6 +1,9 @@
 # My Archive
 >개발 관련 컨텐츠를 읽었을 때 공유하고 싶거나 지속적으로 이해하고 읽어야 할 글들을 모아놉니다.
 
+- SSD 관련 자료
+    - [SSD는 소프트웨어 아키텍처를 어떻게 바꾸고 있는가?](https://d2.naver.com/helloworld/162498)
+    - [개발자를 위한 SSD (Coding for SSD) – Part 6 : A Summary – What every programmer should know about solid-state drives](https://tech.kakao.com/2016/07/18/coding-for-ssd-part-6/)
 - [이렇게 기획하면 안 돼요! #회원가입](https://germweapon.tistory.com/384)
 - [애자일 이야기 - 김창준님 블로그](http://agile.egloos.com/)
     - [프로그래밍 언어 배우기의 달인](http://agile.egloos.com/5664879)
