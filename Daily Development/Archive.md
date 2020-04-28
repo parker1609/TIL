@@ -1,6 +1,7 @@
 # My Archive
 >개발 관련 컨텐츠를 읽었을 때 공유하고 싶거나 지속적으로 이해하고 읽어야 할 글들을 모아놉니다.
 
+- <https://soojin.ro/>
 - SSD 관련 자료
     - [SSD는 소프트웨어 아키텍처를 어떻게 바꾸고 있는가?](https://d2.naver.com/helloworld/162498)
     - [개발자를 위한 SSD (Coding for SSD) – Part 6 : A Summary – What every programmer should know about solid-state drives](https://tech.kakao.com/2016/07/18/coding-for-ssd-part-6/)
