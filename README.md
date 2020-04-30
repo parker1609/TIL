@@ -22,6 +22,8 @@
 
 
 ## 자주 찾아가는 링크
+- 교육
+    - [노마드코더 아카데미](https://academy.nomadcoders.co/)
 - 개발 컨텐츠 모음
     - [고퀄리티 개발 컨텐츠 모음](https://github.com/Integerous/goQuality-dev-contents)
     - [국내외 개발자 모음](https://github.com/sarojaba/awesome-devblog)
