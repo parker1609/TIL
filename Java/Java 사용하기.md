@@ -161,10 +161,19 @@ else {
 - [Java 8 HashMap 퍼포먼스 향상](https://johngrib.github.io/wiki/java8-performance-improvement-for-hashmap/)
 - [자바 HashMap을 효과적으로 사용하는 방법](http://tech.javacafe.io/2018/12/03/HashMap/)
 
+## Generic Type
+Generic Type은 타입을 일반화하는 것입니다. 즉, 사용하는 곳에서 타입을 자유롭게 설정할 수 있어 코드의 재사용성을 높여줍니다. 그리고 제네릭 타입은 컴파일 시간에 결정되므로 안전하게 사용할 수 있습니다.
+
+- [[JAVA] 제네릭(Generic) 문법 정리](https://cornswrold.tistory.com/180)
+
 ## Java8 Stream
 
 
 # 기타
+## 정렬하기
+- Java에서는 1(양수)를 반환할 때 교환합니다.
+    - C++은 false를 반환할 때 교환함(헷갈리기 쉬움)
+- [[Java] Comparable와 Comparator의 차이와 사용법](https://gmlwjd9405.github.io/2018/09/06/java-comparable-and-comparator.html)
 ## 자료형의 최대값, 최소값
 
 ```java
