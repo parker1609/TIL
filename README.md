@@ -13,22 +13,23 @@
 ## :heavy_check_mark: 목표
 - **꾸준히, 깊게 생각하자.**
 - TIL
-    - 오늘 공부한 알고리즘 문제, SQL 문제, 개발하면서 구현한 코드 및 그에 대한 생각
-    - 좋았거나 다시 찾아볼 것 같거나 공유하고 싶은 글, 블로그
-- [기술 면접 준비](https://github.com/CODEMCD/technical-interview-speaking)
-    - 기술에 대해 말로 설명할 수 있을 정도로 공부하기
+    - 1차 공부
+    - 책 내용 정리, 개념 정리, 알고리즘 문제 풀기 등 부담없이 공부한 것을 정리
+    - 내가 이해하기 쉽도록 정리
+- [기술 면접 정리](https://github.com/CODEMCD/technical-interview-speaking)
+    - 2차 공부
+    - 자주 사용하는 기술, 개념 등을 말로 설명할 수 있을 정도로 정리
 - [블로그](https://velog.io/@codemcd)
-    - 개발하면서 삽질하고 해결한 것
-    - 공부하다 정리하고 싶었던 것
+    - 3차 공부
+    - TIL, 기술 면접 정리를 하면서 좀 더 자세히 공부하고 싶거나 모두에게 공유하고 싶은 내용
+    - 개발하며 삽질하거나 팁 등 공유하고 싶은 내용
 
 
-## :warning: 제약사항
-- [Markdown 문법](https://github.com/CODEMCD/TIL/blob/master/TIP/Markdown.md)으로 작성한다.
-- 부담없이 기록한다.
-- 나중에 다시 봐도 이해할 정도로 정리한다.
-
-
-## 자주 찾아가는 링크
+## :paperclip: 자주 찾아가는 링크
+- Markdown
+    - [자주 찾아보는 문법](https://github.com/codemcd/til/blob/master/TIP/Markdown.md)
+    - [테이블 만들기](https://www.tablesgenerator.com/markdown_tables)
+    - [이모지](https://www.webfx.com/tools/emoji-cheat-sheet/)
 - 교육
     - [노마드코더 아카데미](https://academy.nomadcoders.co/)
 - 개발 컨텐츠 모음

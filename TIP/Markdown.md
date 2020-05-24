@@ -161,8 +161,3 @@ __굵게__
 
 이미지를 중앙 정렬하는 방법은 위와 같다.
 - Github에서는 이 방법이 안먹힌다. 여기서는 CSS 파일을 사용해야 할듯
-
-
-## 유용한 마크다운관련 사이트
-- [표 만들기](http://www.tablesgenerator.com/)
-- [이모지](https://www.webfx.com/tools/emoji-cheat-sheet/)
