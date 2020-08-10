@@ -6,3 +6,14 @@
     - 좋은 코드에서도 '좋은'이란 기준에 대해 생각할 수 있는 글
     - 코드는 맥락에 따라 좋은 코드가 될 수도 나쁜 코드가 될 수도 있다.
     - 무조건적으로 클린 코드, 유지보수가 좋은 코드가 좋은 코드는 아니다.
+- [웹 브라우저에 URL을 입력하면 어떤 일이 일어날까?](https://owlgwang.tistory.com/1)
+    - URL 동작과정을 자세하게 설명
+    - 참고자료에서 유용한 정보가 많은듯, 읽어보면 좋을듯 하다.
+- [mac에 MySQL 설치하기](https://velog.io/@max9106/mac%EC%97%90-MySQL-%EC%84%A4%EC%B9%98%ED%95%98%EA%B8%B0-4ck17gzjk3)
+    - Mac에서 MySQL 설치 및 설정
+    - MySQL을 가끔씩 터미널에서 들어가 볼 때가 있는데 그럴 때마다 서버가 닫혀있다. 그리고 항상 명령어를 까먹는데, 위 링크에 있음
+- [Github Profile Readme로 프로필 꾸미기](https://zzsza.github.io/development/2020/07/10/make-github-profile-readme/)
+    - 방문자 수를 알려주는 hits, 아이콘 연동 등을 알려줌
+- <https://velog.io/@hanblueblue>
+    - 여러가지 관심있는 레퍼런스 번역글
+    - sleuth, zipkin 레퍼런스 번역, 실습
