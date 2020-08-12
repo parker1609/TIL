@@ -17,7 +17,7 @@ git commit --amend
 임의의 날짜로 변경
 
 ```
-git commit --amend --no-edit --date="Mon 20 Aug 2018 20:19:19 KST"
+git commit --amend --no-edit --date="Mon 20 Aug 2020 19:19:19 KST"
 ```
 
 현재 날짜로 변경
