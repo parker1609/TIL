@@ -29,7 +29,7 @@ git commit —amend —no-edit —date="$(date)"
 2. commit 작성자 변경
 
 ```
-git commit —amend —no-edit —author="Mon 20 Aug 2018 20:19:19 KST"
+git commit —amend —no-edit —author="codemcd"
 ```
 
 #### reabse를 활용하여 commit 정보 변경하기
