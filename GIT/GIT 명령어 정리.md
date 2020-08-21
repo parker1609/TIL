@@ -1,6 +1,26 @@
 # Git 명령어 정리
 > Git 쓰면서 겪었던 상황과 이를 해결한 명령어 모음입니다.
 
+- [Remote Branch에 올라간 커밋 취소하기](#remote-branch에-올라간-커밋-취소하기)
+- [원격 저장소와 로컬 저장소에 있는 파일을 삭제한다.](#원격-저장소와-로컬-저장소에-있는-파일을-삭제한다)
+- [원격 저장소에 있는 파일을 삭제한다. 로컬 저장소에 있는 파일은 삭제하지 않는다.](#원격-저장소에-있는-파일을-삭제한다-로컬-저장소에-있는-파일은-삭제하지-않는다)
+- [git add 취소하기](#git-add-취소하기)
+- [.gitignore가 동작하지 않을 때](#gitignore가-동작하지-않을-때)
+- [마지막 commit 정보 변경하기](#마지막-commit-정보-변경하기)
+- [rebase 를 활용하여 commit 정보 변경하기](#rebase-를-활용하여-commit-정보-변경하기)
+- [PR 번호로 코드 불러오기 설정](#pr-번호로-코드-불러오기-설정)
+- [Github Pull Requests 충돌](#github-pull-requests-충돌)
+
+
+### Remote Branch에 올라간 커밋 취소하기
+- [원격 저장소에 올라간 커밋 되돌리기](https://jupiny.com/2019/03/19/revert-commits-in-remote-repository/)
+
+### Local Branch와 Remote Branch의 이름이 다른 상태에서 Push 하기
+
+```
+git push origin <로컬 브랜치 이름>:<원격 브랜치 이름>
+```
+
 ### Remote Branch에 잘못 올라간 파일 삭제하기
 
 ```
@@ -95,11 +115,3 @@ rebase를 사용하면 여러 commit의 정보를 변경할 수 있다.
 - `git remote add upstream` -> `git fetch upstream 자신의 github_id` -> `git reset --hard upstream/자신의 github_id`
 - `git push --force [remote repository]`
 - [참고 링크](https://planbs.tistory.com/entry/Git-Pull-request%EC%97%90%EC%84%9C-%EB%B0%9C%EC%83%9D%ED%95%98%EB%8A%94-%EC%B6%A9%EB%8F%8C-%ED%95%B4%EA%B2%B0%ED%95%98%EA%B8%B0)
-
-- 로컬브랜치와 다른 원격 브랜치에 푸시하기
-- 원격 브랜치의 커밋 되돌리기
-- <https://meetup.toast.com/posts/122>
-- rebase
-- cherry pick
-- reset/revert
--
